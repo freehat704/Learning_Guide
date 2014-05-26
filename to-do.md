@@ -1,7 +1,7 @@
 The Project To-Do List
 ======================
 
-[Back To Home](../README.md)
+[Back To Home](README.md)
 
 #### Main Page Read-Me
 
