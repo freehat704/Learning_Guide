@@ -1,4 +1,5 @@
-Welcome to the first page of the Markdown guide.
+Markdown Guide
+==============
 
-Resources:
-http://daringfireball.net/projects/markdown/syntax
+### Resources:
+#### [Daring Fireball's Guide to Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
