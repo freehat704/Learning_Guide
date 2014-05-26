@@ -8,6 +8,7 @@ The markdown language is used by Github and I want to utilize it in the form of 
 ### Markdown Language Origins
 
 Markdown is from ? (Research needed)
+[Wikipedia Article on Markdown](http://en.wikipedia.org/wiki/Markdown)
 
 ### Markdown Language Applications
 
@@ -22,4 +23,10 @@ One of the cool things Github provides in their version of markdown is the use o
 ```
 
 ### Resources:
+#### [Markdown Basics](https://help.github.com/articles/markdown-basics)
+#### [Writing on Github](https://help.github.com/articles/writing-on-github)
+#### [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+#### [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 #### [Daring Fireball's Guide to Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
+#### [Github Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+

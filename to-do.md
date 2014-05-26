@@ -1,12 +1,18 @@
 The Project To-Do List
 ======================
 
-Main Page Read-Me
+[Back To Home](../README.md)
 
-Learning
+#### Main Page Read-Me
 
-Markdown
+#### Learning Guide
 
-Unix
+#### Markdown
 
-Git
+#### Unix
+
+#### Git
+
+#### Within this To-Do List
+Top Priority:
+- Figure out how to make a checklist
