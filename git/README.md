@@ -1,4 +1,9 @@
 A Guide to Git
 ==============
 
-This will be a guide to git as I learn more.
+[Back To Home](..)
+
+This will be a guide to git as I learn more
+
+### Resources:
+##### [Learn Git Branching - Game](http://pcottle.github.io/learnGitBranching/)
