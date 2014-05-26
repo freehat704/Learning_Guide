@@ -7,6 +7,7 @@ I want to help everyone with learning by creating a guide that helps one learn a
 
 ### Projects:
 
+#### [Learning Project](learning)
 #### [Markdown Language](markdown)
 #### [Unix Commands](unix)
 #### [Git](git)
