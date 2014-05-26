@@ -24,3 +24,7 @@ I am a Cal Poly Alumni ('12 BMED) and the big motto for the school is to "Learn 
 ### Learn by Teaching
 
 As an educator, the best way I can engage my students is when we do role reversals. I let the student teach me as much as they can and we work off of each other trying to get to a common goal: the compentency of the student learning a particular concept. It's really useful for subjects in math and science because I can gauge the gaps in a students knowledge. It also allows the student to make more connections and learn more synthetically instead of rote memorization.
+
+### Learning Case Studies
+
+Over time, I'll also include a bunch of case studies for learning as applications of the theory. It helps solidify some of the concepts by telling stories which people can relate much more easily to. I'm not entirely sure if this will be its own separate folder or just interwoven into everything, but none-the-less this is an integral part of this guide.
