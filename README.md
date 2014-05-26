@@ -12,6 +12,10 @@ I want to help everyone with learning by creating a guide that helps one learn a
 #### [Unix Commands](unix)
 #### [Git](git)
 
+As I start filling out these sections, I'll update my to-do list regularly. here it is:
+
+#### [To-Do](to-do.md)
+
 ## An Overview of the Learning Project
 
 ### Learning Theory
