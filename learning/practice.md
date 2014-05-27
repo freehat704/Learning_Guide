@@ -6,9 +6,9 @@ This will be the place I keep track of my projects that I'm currently learning. 
 
 ### Applications:
 
-#### [Markdown Language](markdown)
-#### [Unix Commands](unix)
-#### [Git](git)
+#### [Markdown Language](../markdown)
+#### [Unix Commands](../unix)
+#### [Git](../git)
 
 ## Writing
 
