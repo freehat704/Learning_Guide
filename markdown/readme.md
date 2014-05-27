@@ -3,9 +3,9 @@ Markdown Guide
 
 [Back To Home](../README.md)
 
-The markdown language is used by Github and I want to utilize it in the form of a wiki for all of the things I learn about learning. One way to achieve this is to practice it with a goal you have for yourself. My goal is to be good working with the markdown language.
+The markup language is markdown, which is used by Github. I want to utilize it in the form of a wiki for all of the things I learn about learning. One way to achieve this is to practice it with a goal you have for yourself. My goal is to be good working with markdown.
 
-### History of the Markdown Language
+### History of Markdown
 
 Markdown was created by [John Gruber](http://daringfireball.net/) with significant contributions from [Aaron Swartz](http://www.aaronsw.com/) <sup>[2](#2)</sup> back in 2004. Here is the original introduction from Gruber.
 
@@ -13,15 +13,25 @@ Markdown was created by [John Gruber](http://daringfireball.net/) with significa
 
 > Thus, “Markdown” is two things: (1) a plain text formatting syntax; and (2) a software tool, written in Perl, that converts the plain text formatting to HTML. <sup>[1](#1)</sup>
 
-Initial Resource: [Wikipedia Article on Markdown](http://en.wikipedia.org/wiki/Markdown)
+Since the release of Markdown, Gruber hasn't done much updates with it. <sup>[3](#3)</sup> 
 
-Citations: 
+From this initial write-up, different websites have adopted this format with their own variants. This includes [Github](https://github.com/), [Reddit](http://www.reddit.com/), and [Stack Overflow](http://stackoverflow.com/), just to name a few. Another application that has risen is Multimarkdown, <sup>[4](#4)</sup> which is created by [Fletcher Penny](http://fletcherpenney.net/) that adds more syntax to markdown and has support for extensions.
+
+##### Initial Resource: 
+
+[Wikipedia Article on Markdown](http://en.wikipedia.org/wiki/Markdown)
+
+##### Citations: 
 
 <a name="1"/> 1. [Initial Release of Markdown](http://daringfireball.net/projects/markdown/)
 
 <a name="2"/> 2. [Aaron Swartz Blog Post on Markdown](http://www.aaronsw.com/weblog/001189)
 
-### Markdown Language Applications
+<a name="3"/> 3. [Responsible Open Source Code Parenting](http://blog.codinghorror.com/responsible-open-source-code-parenting/)
+
+<a name="4"/> 4. [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
+
+### Other Markup Languages
 
 Github certainly uses markdown, but there are other websites that rely heavily on it as well. Wikipedia and affiliated Wikimedia websites use their version of the markdown language throughout their website (reference needed).
 
