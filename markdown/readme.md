@@ -12,7 +12,8 @@ The markup language is markdown, which is used by Github. I want to utilize it i
 #### [Getting Started](#Intro)
 #### [Resources](#Resources)
 
-<a name="History"/>### History of Markdown
+<a name="History"/>
+### History of Markdown
 
 Markdown was created by [John Gruber](http://daringfireball.net/) with significant contributions from [Aaron Swartz](http://www.aaronsw.com/) <sup>[2](#2)</sup> back in 2004. Here is the original introduction from Gruber.
 
@@ -38,9 +39,20 @@ From this initial write-up, different websites have adopted this format with the
 
 <a name="4"/> 4. [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
 
-<a name="Intro"/>## Getting Started
+<a name="Intro"/>
+## Getting Started
 
+### Text Editors
 
+The first thing to do is to install a text editor. MS Word is not a good text editor. Here's a list of suggestions:
+
+* [Sublime Text](http://www.sublimetext.com/)
+* [Notepad++](http://notepad-plus-plus.org/)
+* [Textmate](http://macromates.com/)
+* [Coda](https://panic.com/coda/)
+* [Vim](http://www.vim.org/)
+
+Personally, I'm using Sublime Text 2 since I'm also learning programming. It's really a matter of preference here, and browser support, so choose one and let's continue to the next section.
 
 ### Relative Links
 
@@ -50,7 +62,8 @@ One of the cool things Github provides in their version of markdown is the use o
 [Back To Home](../README.md)
 ```
 
-<a name="Resources"/>### Resources:
+<a name="Resources"/>
+### Resources:
 #### [Markdown Basics](https://help.github.com/articles/markdown-basics)
 #### [Writing on Github](https://help.github.com/articles/writing-on-github)
 #### [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
