@@ -20,3 +20,4 @@ The Project To-Do List
 #### Within this To-Do List
 Top Priority:
 - Figure out how to make a checklist
+- Guide on How to Research
