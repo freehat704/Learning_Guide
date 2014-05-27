@@ -3,6 +3,8 @@ Markdown Guide
 
 [Back To Home](../README.md)
 
+[Back To Learning Project](../learning/README.md)
+
 The markup language is markdown, which is used by Github. I want to utilize it in the form of a wiki for all of the things I learn about learning. One way to achieve this is to practice it with a goal you have for yourself. My goal is to be good working with markdown.
 
 ### History of Markdown
