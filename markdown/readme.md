@@ -56,7 +56,7 @@ Personally, I'm using Sublime Text 2 since I'm also learning programming. It's r
 
 ### Git and Github
 
-I'm not going to go much in detail about [git](http://git-scm.com/) because there are [some great write-ups](http://skillcrush.com/2013/02/18/git/) out there for it. In short, git is a kind of version-control software that allows an individual or group to work on projects while saving every previous versions, branch from the master version, and a lot more. 
+I'm not going to go much in detail about [git](http://git-scm.com/) because I talk about it in the [Git section](../git) of the learning project, and there are [some great write-ups](http://skillcrush.com/2013/02/18/git/) out there for it. In short, git is a kind of version-control software that allows an individual or group to work on projects while saving every previous versions, branch from the master version, and a lot more. 
 
 I'll be using git to commit changes to my write-ups and Github to share my project. Github uses its own version of markdown they call '[Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).' I'll be showing you the basics of it.
 
