@@ -31,9 +31,9 @@ From this initial write-up, different websites have adopted this format with the
 
 <a name="4"/> 4. [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
 
-### Other Markup Languages
+## Getting Started
 
-Github certainly uses markdown, but there are other websites that rely heavily on it as well. Wikipedia and affiliated Wikimedia websites use their version of the markdown language throughout their website (reference needed).
+
 
 ### Relative Links
 
