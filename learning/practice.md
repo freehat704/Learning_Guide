@@ -33,4 +33,5 @@ One of the things that has fascinated me is how people ask such quality question
 ## How to Research
 
 * Learn to use Google properly
+
 [Lifehacker](http://lifehacker.com/) ran a series of blog posts from Daniel M. Russell challenging its readers to do advance searches via [Google](https://www.google.com/). His blog is called [SearchReSearch](http://searchresearch1.blogspot.com/) and his weekly challenges are still active.
