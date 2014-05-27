@@ -17,7 +17,7 @@ I am a Cal Poly Alumni ('12 BMED) and the big motto for the school is to "Learn 
 
 #### Applications:
 
-##### [Markdown Language](markdown)
+##### [Markdown](markdown)
 ##### [Unix Commands](unix)
 ##### [Git](git)
 

@@ -7,7 +7,12 @@ Markdown Guide
 
 The markup language is markdown, which is used by Github. I want to utilize it in the form of a wiki for all of the things I learn about learning. One way to achieve this is to practice it with a goal you have for yourself. My goal is to be good working with markdown.
 
-### History of Markdown
+### Table of Contents
+#### [History of Markdown](#History)
+#### [Getting Started](#Intro)
+#### [Resources](#Resources)
+
+<a name="History"/>### History of Markdown
 
 Markdown was created by [John Gruber](http://daringfireball.net/) with significant contributions from [Aaron Swartz](http://www.aaronsw.com/) <sup>[2](#2)</sup> back in 2004. Here is the original introduction from Gruber.
 
@@ -33,7 +38,7 @@ From this initial write-up, different websites have adopted this format with the
 
 <a name="4"/> 4. [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
 
-## Getting Started
+<a name="Intro"/>## Getting Started
 
 
 
@@ -45,7 +50,7 @@ One of the cool things Github provides in their version of markdown is the use o
 [Back To Home](../README.md)
 ```
 
-### Resources:
+<a name="Resources"/>### Resources:
 #### [Markdown Basics](https://help.github.com/articles/markdown-basics)
 #### [Writing on Github](https://help.github.com/articles/writing-on-github)
 #### [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
