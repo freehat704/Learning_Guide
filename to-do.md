@@ -9,6 +9,10 @@ The Project To-Do List
 
 #### Markdown
 
+* Structure markdown syntax
+* Implementation of citations
+* Edit what git is
+
 #### Unix
 
 #### Git

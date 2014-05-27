@@ -54,6 +54,12 @@ The first thing to do is to install a text editor. MS Word is not a good text ed
 
 Personally, I'm using Sublime Text 2 since I'm also learning programming. It's really a matter of preference here, and browser support, so choose one and let's continue to the next section.
 
+### Git and Github
+
+I'm not going to go much in detail about [git](http://git-scm.com/) because there are [some great write-ups](http://skillcrush.com/2013/02/18/git/) out there for it. In short, git is a kind of version-control software that allows an individual or group to work on projects while saving every previous versions, branch from the master version, and a lot more. 
+
+I'll be using git to commit changes to my write-ups and Github to share my project. Github uses its own version of markdown they call '[Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).' I'll be showing you the basics of it.
+
 ### Relative Links
 
 One of the cool things Github provides in their version of markdown is the use of [relative links](https://help.github.com/articles/relative-links-in-readmes). For example, I needed to include a button that goes back to the home page, so I added a link at the top that says "Back To Home". 
