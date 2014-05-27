@@ -7,8 +7,18 @@ The markdown language is used by Github and I want to utilize it in the form of 
 
 ### History of the Markdown Language
 
-Markdown is from ? (Research needed)
-[Wikipedia Article on Markdown](http://en.wikipedia.org/wiki/Markdown)
+Markdown was created by [John Gruber](http://daringfireball.net/) with significant contributions from [Aaron Swartz](http://www.aaronsw.com/)[2](#2) back in 2004. Here is the original introduction from Gruber.
+
+> Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+
+> Thus, “Markdown” is two things: (1) a plain text formatting syntax; and (2) a software tool, written in Perl, that converts the plain text formatting to HTML. [1](#1)
+
+
+
+Initial Resource: [Wikipedia Article on Markdown](http://en.wikipedia.org/wiki/Markdown)
+Citations: 
+<a name="1"/>[Initial Release of Markdown](http://daringfireball.net/projects/markdown/)
+<a name="2"/>[Aaron Swartz Blog Post on Markdown](http://www.aaronsw.com/weblog/001189)
 
 ### Markdown Language Applications
 
