@@ -5,7 +5,7 @@ Markdown Guide
 
 The markdown language is used by Github and I want to utilize it in the form of a wiki for all of the things I learn about learning. One way to achieve this is to practice it with a goal you have for yourself. My goal is to be good working with the markdown language.
 
-### Markdown Language Origins
+### History of the Markdown Language
 
 Markdown is from ? (Research needed)
 [Wikipedia Article on Markdown](http://en.wikipedia.org/wiki/Markdown)
@@ -29,4 +29,5 @@ One of the cool things Github provides in their version of markdown is the use o
 #### [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 #### [Daring Fireball's Guide to Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
 #### [Github Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+#### [The Macsparky Markdown Field Guide](http://macsparky.com/markdown)
+#### [Markdown Live Preview](http://markdownlivepreview.com/)
