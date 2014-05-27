@@ -14,9 +14,12 @@ Markdown was created by [John Gruber](http://daringfireball.net/) with significa
 > Thus, “Markdown” is two things: (1) a plain text formatting syntax; and (2) a software tool, written in Perl, that converts the plain text formatting to HTML. <sup>[1](#1)</sup>
 
 Initial Resource: [Wikipedia Article on Markdown](http://en.wikipedia.org/wiki/Markdown)
+
 Citations: 
-<a name="1"/>[Initial Release of Markdown](http://daringfireball.net/projects/markdown/)
-<a name="2"/>[Aaron Swartz Blog Post on Markdown](http://www.aaronsw.com/weblog/001189)
+
+<a name="1"/> 1. [Initial Release of Markdown](http://daringfireball.net/projects/markdown/)
+
+<a name="2"/> 2. [Aaron Swartz Blog Post on Markdown](http://www.aaronsw.com/weblog/001189)
 
 ### Markdown Language Applications
 
