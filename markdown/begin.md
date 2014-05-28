@@ -64,9 +64,43 @@ For example, **this phrase is in bold, _and this is in bold and italics_ to demo
 
 **italic text**
 
-For example, **this phrase is in italics, _and this is in bold and italics_ to demostrate my point.**
+For example, **this phrase is in bold, _and this is in bold and italics_ to demostrate my point.**
 
 ## Lists
+
+### Unordered Lists
+
+Use the ```*``` or ```-``` symbol in front of list. Be sure that this is the first character of the line. Do not add line breaks between the list items, which is unlike making a new paragraph.
+
+```
+* Item
+* Item
+* Item
+
+- Item
+- Item
+- Item
+```
+* Item
+* Item
+* Item
+
+- Item
+- Item
+- Item
+
+### Ordered Lists
+
+For ordered lists, you will want to add a number before the item. Like unordered lists, include the number and a period first and don't add line breaks.
+
+```
+1. item 1
+2. item 2
+3. item 3
+```
+1. item 1
+2. item 2
+3. item 3
 
 ## Links
 
