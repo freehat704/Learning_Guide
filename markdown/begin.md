@@ -3,7 +3,15 @@ Markdown: Let's Begin
 
 # Basics
 
-## Paragraph
+## Paragraphs
+
+## Headings
+
+## Blockquotes
+
+## Styling Text
+
+# Lists
 
 ### Relative Links
 

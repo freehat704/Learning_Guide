@@ -5,7 +5,7 @@ Markdown Guide
 
 [Back To Learning Project](../learning/README.md)
 
-The markup language is markdown, which is used by Github. I want to utilize it in the form of a wiki for all of the things I learn about learning. One way to achieve this is to practice it with a goal you have for yourself. My goal is to be good working with markdown.
+The markup language used by Github is called markdown. Markdown is a language that is easy to read and easy to write text format that outputs into valid HTML. I want to utilize it in the form of a wiki for all of the things I learn about learning. One way to achieve this is to practice it with a goal you have for yourself. My goal is to be good working with markdown. 
 
 ### Table of Contents
 #### [History of Markdown](#History)
@@ -33,11 +33,8 @@ From this initial write-up, different websites have adopted this format with the
 ##### Citations: 
 
 <a name="1"/> 1. [Initial Release of Markdown](http://daringfireball.net/projects/markdown/)
-
 <a name="2"/> 2. [Aaron Swartz Blog Post on Markdown](http://www.aaronsw.com/weblog/001189)
-
 <a name="3"/> 3. [Responsible Open Source Code Parenting](http://blog.codinghorror.com/responsible-open-source-code-parenting/)
-
 <a name="4"/> 4. [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
 
 <a name="Intro"/>
@@ -68,11 +65,12 @@ I'll be using git to commit changes to my write-ups and Github to share my proje
 
 <a name="Resources"/>
 ### Resources:
-#### [Markdown Basics](https://help.github.com/articles/markdown-basics)
-#### [Writing on Github](https://help.github.com/articles/writing-on-github)
-#### [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
-#### [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-#### [Daring Fireball's Guide to Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
-#### [Github Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-#### [The Macsparky Markdown Field Guide](http://macsparky.com/markdown)
-#### [Markdown Live Preview](http://markdownlivepreview.com/)
+
+*[Markdown Basics](https://help.github.com/articles/markdown-basics)
+*[Writing on Github](https://help.github.com/articles/writing-on-github)
+*[Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+*[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+*[Daring Fireball's Guide to Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
+*[Github Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+*[The Macsparky Markdown Field Guide](http://macsparky.com/markdown)
+*[Markdown Live Preview](http://markdownlivepreview.com/)
