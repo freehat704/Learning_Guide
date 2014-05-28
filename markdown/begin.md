@@ -44,6 +44,9 @@ Maya Angelou once said the following:
 
 > Courage is the most important of all the virtues, because without courage you can't practice any other virtue consistently. You can practice any virtue erratically, but nothing consistently without courage.
 ```
+Maya Angelou once said the following:
+
+> Courage is the most important of all the virtues, because without courage you can't practice any other virtue consistently. You can practice any virtue erratically, but nothing consistently without courage.
 
 ### Styling Text
 
