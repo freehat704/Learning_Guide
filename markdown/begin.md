@@ -1,9 +1,9 @@
 Markdown: Let's Begin
 =====================
 
-# Basics
+## Basics
 
-## Paragraphs
+### Paragraphs
 
 Creating a new paragraph is relatively easy. All you have to do is just start writing on a new line.
 
@@ -19,21 +19,32 @@ You can write anything you want.
 If you leave a blank space between the line, you will have a line break when you view the file. 
 
 
-## Headings
+### Headings
 
 Like in HTML, we have six headers we can use. Instead of ```h1``` through ```h6``` tags, we have # tags.
 
 ```
 # Represents h1 (or largest header)
 ## Represents h2
-and so on until ######, which represents h6.
+...
+###### Represents h6
+```
+# Represents h1 (or largest header)
+## Represents h2
+...
+###### Represents h6
+
+### Blockquotes
+
+```
+To add block quotes, 
 ```
 
-## Blockquotes
+### Styling Text
 
-## Styling Text
+## Lists
 
-# Lists
+## Links
 
 ### Relative Links
 
