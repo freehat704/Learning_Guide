@@ -29,9 +29,11 @@ Like in HTML, we have six headers we can use. Instead of ```h1``` through ```h6`
 ...
 ###### Represents h6
 ```
-# Represents h1 (or largest header)
+# Represents h1
 ## Represents h2
-...
+### Represents h3
+#### Represents h4
+##### Represents h5
 ###### Represents h6
 
 ### Blockquotes
