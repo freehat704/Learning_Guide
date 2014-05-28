@@ -81,6 +81,7 @@ Use the ```*``` or ```-``` symbol in front of list. Be sure that this is the fir
 - Item
 - Item
 ```
+
 * Item
 * Item
 * Item
@@ -98,6 +99,7 @@ For ordered lists, you will want to add a number before the item. Like unordered
 2. item 2
 3. item 3
 ```
+
 1. item 1
 2. item 2
 3. item 3
