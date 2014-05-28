@@ -76,7 +76,7 @@ Use the ```*``` or ```-``` symbol in front of list. Be sure that this is the fir
 * Item
 * Item
 * Item
-
+or
 - Item
 - Item
 - Item
@@ -85,10 +85,6 @@ Use the ```*``` or ```-``` symbol in front of list. Be sure that this is the fir
 * Item
 * Item
 * Item
-
-- Item
-- Item
-- Item
 
 ### Ordered Lists
 
