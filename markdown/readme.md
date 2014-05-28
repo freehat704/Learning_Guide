@@ -11,6 +11,7 @@ The markup language is markdown, which is used by Github. I want to utilize it i
 #### [History of Markdown](#History)
 #### [Getting Started](#Intro)
 #### [Resources](#Resources)
+#### [Begin](#Begin)
 
 <a name="History"/>
 ### History of Markdown
@@ -60,13 +61,10 @@ I'm not going to go much in detail about [git](http://git-scm.com/) because I ta
 
 I'll be using git to commit changes to my write-ups and Github to share my project. Github uses its own version of markdown they call '[Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).' I'll be showing you the basics of it.
 
-### Relative Links
+### Ready?
 
-One of the cool things Github provides in their version of markdown is the use of [relative links](https://help.github.com/articles/relative-links-in-readmes). For example, I needed to include a button that goes back to the home page, so I added a link at the top that says "Back To Home". 
-
-```
-[Back To Home](../README.md)
-```
+<a name="Begin"/>
+[Let's begin!](begin.md)
 
 <a name="Resources"/>
 ### Resources:
