@@ -5,6 +5,16 @@ Markdown: Let's Begin
 
 ## Paragraphs
 
+```
+You can write anything you want.
+
+If you leave a blank space between the line, you will have a line break when you view the file. 
+```
+> You can write anything you want.
+>
+> If you leave a blank space between the line, you will have a line break when you view the file. 
+
+
 ## Headings
 
 ## Blockquotes
