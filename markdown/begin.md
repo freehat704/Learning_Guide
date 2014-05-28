@@ -91,16 +91,24 @@ or
 For ordered lists, you will want to add a number before the item. Like unordered lists, include the number and a period first and don't add line breaks.
 
 ```
-1. item 1
-2. item 2
-3. item 3
+1. Item 1
+2. Item 2
+3. Item 3
 ```
 
-1. item 1
-2. item 2
-3. item 3
+1. Item 1
+2. Item 2
+3. Item 3
 
 ## Links
+
+Create inline links by adding brackets ```[ ]``` around the text you want to link to and add the url link between parenthesis ```( )``` leading to the link. the brackets and parenthesis need to be next to each other, meaning no spaces between each other.
+
+```
+The best way to practice is to [visit GitHub!](www.github.com).
+```
+
+The best way to practice is to [visit GitHub!](www.github.com).
 
 ### Relative Links
 
