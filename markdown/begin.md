@@ -2,11 +2,11 @@ Markdown: Let's Begin
 =====================
 
 ## Table of Contents
-1. [Basics](begin.md#basics)
-2. [Lists](begin.md#lists)
-3. [Links](begin.md#links)
+1. [Basics](#basics)
+2. [Lists](#lists)
+3. [Links](#links)
 
-
+<a name="basics"/>
 ## Basics
 
 ### Paragraphs
@@ -72,6 +72,7 @@ For example, **this phrase is in bold, _and this is in bold and italics_ to demo
 
 For example, **this phrase is in bold, _and this is in bold and italics_ to demostrate my point.**
 
+<a name="lists"/>
 ## Lists
 
 ### Unordered Lists
@@ -106,6 +107,7 @@ For ordered lists, you will want to add a number before the item. Like unordered
 2. Item 2
 3. Item 3
 
+<a name="links"/>
 ## Links
 
 ### Inline Links
