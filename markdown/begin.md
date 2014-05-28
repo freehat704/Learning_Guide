@@ -53,12 +53,17 @@ Maya Angelou once said the following:
 We can style our text to be *bold* or **italic**.
 ```
 To add bold words, wrap your word(s) in "*" symbol, e.g. *bold text*
+
 To add italics, wrap your word(s) in two "*" symbols, e.g. **italic text**
+
 You may have italics with a bold phrase inside. No worries, use an underscore "_" to mean one or another. 
+
 For example, **this phrase is in italics, _and this is in bold and italics_ to demostrate my point.**
 ```
 *bold text*
+
 **italic text**
+
 For example, **this phrase is in italics, _and this is in bold and italics_ to demostrate my point.**
 
 ## Lists
