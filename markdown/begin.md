@@ -38,11 +38,26 @@ Like in HTML, we have six headers we can use. Instead of ```h1``` through ```h6`
 
 ### Blockquotes
 
+This can be indicated with a ```>``` symbol before starting your quote.
 ```
-To add block quotes, 
+Maya Angelou once said the following:
+
+> Courage is the most important of all the virtues, because without courage you can't practice any other virtue consistently. You can practice any virtue erratically, but nothing consistently without courage.
 ```
 
 ### Styling Text
+
+We can style our text to be *bold* or **italic**.
+```
+To add bold words, wrap your word(s) in "*" symbol, e.g. *bold text*
+To add italics, wrap your word(s) in two "*" symbols, e.g. **italic text**
+You may have italics with a bold phrase inside. No worries, use an underscore "_" to mean one or another. 
+For example, **this phrase is in italics, _and this is in bold and italics_ to demostrate my point.**
+```
+>To add bold words, wrap your word(s) in "*" symbol, e.g. *bold text*
+>To add italics, wrap your word(s) in two "*" symbols, e.g. **italic text**
+>You may have italics with a bold phrase inside. No worries, use an underscore "_" to mean one or another. 
+>For example, **this phrase is in italics, _and this is in bold and italics_ to demostrate my point.**
 
 ## Lists
 
