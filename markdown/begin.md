@@ -2,10 +2,12 @@ Markdown: Let's Begin
 =====================
 
 ## Table of Contents
-[Basics](#Basics)
+[Basics](begin.md#Basics)
+[Lists](begin.md#Lists)
+[Links](begin.md#Links)
 
 
-##Basics
+## Basics
 
 ### Paragraphs
 
