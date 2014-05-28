@@ -32,14 +32,10 @@ From this initial write-up, different websites have adopted this format with the
 
 ##### Citations: 
 
-<a name="1"/> 
-1. [Initial Release of Markdown](http://daringfireball.net/projects/markdown/)
-<a name="2"/> 
-2. [Aaron Swartz Blog Post on Markdown](http://www.aaronsw.com/weblog/001189)
-<a name="3"/> 
-3. [Responsible Open Source Code Parenting](http://blog.codinghorror.com/responsible-open-source-code-parenting/)
-<a name="4"/> 
-4. [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
+1. [Initial Release of Markdown](http://daringfireball.net/projects/markdown/) <a name="1"/> 
+2. [Aaron Swartz Blog Post on Markdown](http://www.aaronsw.com/weblog/001189) <a name="2"/> 
+3. [Responsible Open Source Code Parenting](http://blog.codinghorror.com/responsible-open-source-code-parenting/) <a name="3"/> 
+4. [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) <a name="4"/> 
 
 <a name="Intro"/>
 ## Getting Started
