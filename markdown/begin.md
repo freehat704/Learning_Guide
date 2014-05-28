@@ -1,6 +1,10 @@
 Markdown: Let's Begin
 =====================
 
+## Table of Contents
+[Basics](#Basics)
+
+
 ## Basics
 
 ### Paragraphs
@@ -102,6 +106,8 @@ For ordered lists, you will want to add a number before the item. Like unordered
 
 ## Links
 
+### Inline Links
+
 Create inline links by adding brackets ```[ ]``` around the text you want to link to and add the url link between parenthesis ```( )``` leading to the link. the brackets and parenthesis need to be next to each other, meaning no spaces between each other.
 
 ```
@@ -110,13 +116,19 @@ The best way to practice is to [visit GitHub!](www.github.com).
 
 The best way to practice is to [visit GitHub!](www.github.com).
 
-### Relative Links
+## Github Flavored Markdown
+
+Github includes some more things that the original markdown does not have.
+
+### Relative Link Paths
 
 One of the cool things Github provides in their version of markdown is the use of [relative links](https://help.github.com/articles/relative-links-in-readmes). For example, I needed to include a button that goes back to the home page, so I added a link at the top that says "Back To Home". 
 
 ```
 [Back To Home](../README.md)
 ```
+
+[Back To Home](../README.md)
 
 
 
