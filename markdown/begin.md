@@ -2,9 +2,9 @@ Markdown: Let's Begin
 =====================
 
 ## Table of Contents
-[Basics](begin.md#Basics)
-[Lists](begin.md#Lists)
-[Links](begin.md#Links)
+1. [Basics](begin.md#basics)
+2. [Lists](begin.md#lists)
+3. [Links](begin.md#links)
 
 
 ## Basics
