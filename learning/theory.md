@@ -9,8 +9,8 @@ This section talks about studies in learning, applications of these studies, sel
 1. [On Beginning](Theory/begin.md)
 2. [Intro to meta-learning](Theory/meta.md)
 3. [Children and Studying](Theory/children.md)
-4. [Classrooms](#classroom)
-5. [Autodidacticism](#auto)
+4. [Classrooms](Theory/classroom.md)
+5. [Autodidacticism](Theory/auto)
 6. [Studying](#study)
 7. [Difficulties](#difficult)
 8. [Learning Enhancements](#enhance)
@@ -20,12 +20,6 @@ This section talks about studies in learning, applications of these studies, sel
 12. [Learning Styles](#styles)
 13. [Learning From Experts](#expert)
 14. [Learning With Others](#peer)
-
-<a name="classroom"/>
-## Classrooms
-
-<a name="auto"/>
-## Autodidacticism
 
 <a name="study"/>
 ## Studying

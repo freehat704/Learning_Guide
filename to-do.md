@@ -46,9 +46,9 @@ The Project To-Do List
 		- [ ] ADHD drugs (e.g. ritalin)
 - [ ] Learning Exercises
 	- [ ] Memorization
-		- [ ] Working Memory
+		- [x] Working Memory
 		- [ ] Spaced Effects
-			- [ ] Spacing Effects, e.g. Primacy and Recency Effects (See 4HC for von Restroff effect)
+			- [x] Spacing Effects, e.g. Primacy and Recency Effects (See 4HC for von Restroff effect)
 			- [ ] Resting Breaks
 				- [ ] Anki Method
 - [ ] Two Brains Concept (L and R-mode)
