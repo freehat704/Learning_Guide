@@ -89,7 +89,9 @@ We can also nest blockquotes.
 
 > End of Normal Quote
 
-Lastly, you can quote by indenting.
+### Codeblocks
+
+You can create a quick codeblock by indenting.
 
 ```
 Normal Text
@@ -104,6 +106,8 @@ Normal Text
 	Indented Quoted Text
 
 Back to Normal Text
+
+The more proper way of doing it is to start by putting three ``` ` ``` symbols.
 
 ### Styling Text
 
