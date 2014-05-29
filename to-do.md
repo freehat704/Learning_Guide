@@ -132,7 +132,7 @@ The Project To-Do List
 	- [x] Nested Blockquotes
 	- [x] Add description that other Markdown elements work within quotes
 	- [x] Plus signs (+) also work for lists
-	- [ ] Multiple Paragraphs in List
+	- [x] Multiple Paragraphs in List
  	- [ ] Images
  		- [ ] Image Links
  		- [ ] Alt text in Images

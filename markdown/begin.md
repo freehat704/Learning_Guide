@@ -160,6 +160,24 @@ For example, **this phrase is in bold, _and this is in bold and italics_ to demo
 
 For example, **this phrase is in bold, _and this is in bold and italics_ to demostrate my point.**
 
+### Horizontal Rule
+
+Adding a horizontal rule requires three or more hyphens ```---```, asterisks ```***``` or underscores ```___``` on their own line.
+
+```
+---
+
+***
+
+___
+```
+
+---
+
+***
+
+___
+
 <a name="lists"/>
 ## Lists
 
@@ -197,6 +215,8 @@ For ordered lists, you will want to add a number before the item. Like unordered
 
 ### Paragraphs within Lists
 
+The following is from [this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) taken line by line.
+
 ```no-highlight
 1. First ordered list item
 2. Another item
@@ -209,7 +229,7 @@ For ordered lists, you will want to add a number before the item. Like unordered
 
 	To have a line break without a paragraph, you will need to use two trailing spaces.  
 	Note that this line is separate, but within the same paragraph.  
-	(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+	(This is contrary to the typical GFM line break behavior, where trailing spaces are not required.)
 ```
 
 1. First ordered list item
@@ -223,7 +243,7 @@ For ordered lists, you will want to add a number before the item. Like unordered
 
 	To have a line break without a paragraph, you will need to use two trailing spaces.  
 	Note that this line is separate, but within the same paragraph.  
-	(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+	(This is contrary to the typical GFM line break behavior, where trailing spaces are not required.)
 
 <a name="links"/>
 ## Links
