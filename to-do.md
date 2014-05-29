@@ -125,17 +125,17 @@ The Project To-Do List
 
 #### Markdown
 - [ ] Basics of markdown
-	- [ ] Links
+	- [x] Links
 		- [x] Basic Link
-		- [ ] Link with title
-	- [ ] Underlined heading and subheading syntax
-	- [ ] Nested Blockquotes
-	- [ ] Add description that other Markdown elements work within quotes
-	- [ ] Plus signs (+) also work for lists
+		- [x] Link with title
+	- [x] Underlined heading and subheading syntax
+	- [x] Nested Blockquotes
+	- [x] Add description that other Markdown elements work within quotes
+	- [x] Plus signs (+) also work for lists
 	- [ ] Multiple Paragraphs in List
  	- [ ] Images
  		- [ ] Image Links
- 		- [ ] Alt text
+ 		- [ ] Alt text in Images
  	- [ ] Horizonal Rules
 - [ ] Basics of markdown for Github (i.e. differences)
 	- [ ] Multiple underscores in words
