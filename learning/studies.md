@@ -16,7 +16,7 @@ These are stories from students that I was in the same class in.
 
 I've done a fair amount of tutoring with students who are taking a class I took maybe semesters or years later. These are stories of those students.
 
-### Addiction: Learning with Porn (From the series: [Your Brain on Porn](http://www.youtube.com/watch?v=TKDFsLi2oBk))
+## Addiction: Learning with Porn (From the series: [Your Brain on Porn](http://www.youtube.com/watch?v=TKDFsLi2oBk))
 
 I want to talk about addiction. On July 2nd, 2012 I started looking into addiction even more. Gary Wilson has this excellent series on YouTube called “[Your Brain on Porn: six part series](http://www.youtube.com/watch?v=TKDFsLi2oBk)”. This series gives an introduction to the current science surrounding this recent phenomenon. The problem with this issue is that there are little to no studies directly linking internet porn to erectile dysfunction or other problems, but there can be much correlation drawn from other addictions such as drugs and food. Here’s a quick summary of that long series, which focuses primarily on males heterosexuals.
 
