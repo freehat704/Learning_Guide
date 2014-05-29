@@ -7,11 +7,11 @@ Markdown Guide
 
 The markup language used by Github is called markdown. Markdown is a language that is easy to read and easy to write text format that outputs into valid HTML. I want to utilize it in the form of a wiki for all of the things I learn about learning. One way to achieve this is to practice it with a goal you have for yourself. My goal is to be good working with markdown. 
 
-### Table of Contents
-#### [History of Markdown](#History)
-#### [Getting Started](#Intro)
-#### [Resources](#Resources)
-#### [Begin](#Begin)
+## Table of Contents
+1. [History of Markdown](#History)
+2. [Getting Started](#Intro)
+3. [Resources](#Resources)
+4. [Begin](#Begin)
 
 <a name="History"/>
 ### History of Markdown
