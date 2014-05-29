@@ -4,6 +4,12 @@ Markdown: Let's Begin
 
 ## Table of Contents
 1. [Basics](#basics)
+	1. [Paragraphs](#paragraph)
+	2. [Headings](#heading)
+	3. [Blockquotes](#block)
+	4. [Codeblocks](#code)
+	5. [Styling Text](#style)
+	6. [Horizontal Rule](#horizontal)
 2. [Lists](#lists)
 3. [Links](#links)
 4. [Github Flavored Markdown](#github)
@@ -12,6 +18,7 @@ Markdown: Let's Begin
 <a name="basics"/>
 ## Basics
 
+<a name="paragraph"/>
 ### Paragraphs
 
 Creating a new paragraph is relatively easy. All you have to do is just start writing on a new line.
@@ -27,7 +34,7 @@ You can write anything you want.
 
 If you leave a blank space between the line, you will have a line break when you view the file. 
 
-
+<a name="heading"/>
 ### Headings
 
 Like in HTML, we have six headers we can use. Instead of ```h1``` through ```h6``` tags, we have # tags.
@@ -61,6 +68,7 @@ Heading 1
 Heading 2
 ---------
 
+<a name="block"/>
 ### Blockquotes
 
 This can be indicated with a ```>``` symbol before starting your quote. You can still use other markdown features within the quotes.
@@ -89,6 +97,7 @@ We can also nest blockquotes.
 
 > End of Normal Quote
 
+<a name="code"/>
 ### Codeblocks
 
 You can create a quick codeblock by indenting.
@@ -142,6 +151,7 @@ class Die
 end
 ```
 
+<a name="style"/>
 ### Styling Text
 
 We can style our text to be *bold* or **italic**.
@@ -160,6 +170,7 @@ For example, **this phrase is in bold, _and this is in bold and italics_ to demo
 
 For example, **this phrase is in bold, _and this is in bold and italics_ to demostrate my point.**
 
+<a name="horizontal"/>
 ### Horizontal Rule
 
 Adding a horizontal rule requires three or more hyphens ```---```, asterisks ```***``` or underscores ```___``` on their own line.

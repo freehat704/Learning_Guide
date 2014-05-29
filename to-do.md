@@ -136,7 +136,7 @@ The Project To-Do List
  	- [ ] Images
  		- [ ] Image Links
  		- [ ] Alt text in Images
- 	- [ ] Horizonal Rules
+ 	- [x] Horizonal Rules
 - [ ] Basics of markdown for Github (i.e. differences)
 	- [ ] Multiple underscores in words
 	- [ ] URL autolinking
