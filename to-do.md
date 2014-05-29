@@ -35,9 +35,9 @@ The Project To-Do List
 	- [ ] Psychological
 		- [x] The Inner Game: Different Kind of Mind Games
 		- [ ] Coping Mechanisms
-		- [ ] Mindset (fixed vs. growth)
-			- [ ] Effects of Shame
-			- [ ] Payoffs of Resiliance
+		- [x] Mindset (fixed vs. growth)
+		- [ ] Effects of Shame
+		- [ ] Payoffs of Resiliance
 	- [ ] Effects of Sleep and Learning
 		- [ ] Meditation
 		- [ ] Brain Waves

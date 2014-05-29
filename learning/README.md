@@ -10,6 +10,3 @@ As I begin to fill up these areas, I'll include a to-do list of all of the thing
 #### [Learning Theory](theory.md)
 #### [Learning Practice](practice.md)
 #### [Learning Studies](studies.md)
-
-### Resources:
-##### [Scott H. Young's Blog](http://www.scotthyoung.com/blog/)
