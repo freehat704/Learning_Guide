@@ -7,6 +7,7 @@ Markdown: Let's Begin
 2. [Lists](#lists)
 3. [Links](#links)
 4. [Github Flavored Markdown](#github)
+5. [Writing in Github](#writing)
 
 <a name="basics"/>
 ## Basics
@@ -137,9 +138,10 @@ One of the cool things Github provides in their version of markdown is the use o
 
 [Back To Home](../README.md)
 
+<a name="writing"/>
 ## Writing within Github vs. Markdown document
 
-I've been writing on Sublime text, which is not the same as writing in markdown via Github. Here are the notable differences.
+I've been writing on Sublime text, which is not the same as writing in markdown via Github when writing issues, comments, and pull request descriptions. Here are the notable differences.
 
 ### Newlines
 
@@ -158,6 +160,10 @@ Separated into its own lines.
 ### Task lists
 
 TBA
+
+### Features
+
+All of these differences so far are mark-up differences. There are features includes as well, although it doesn't pertain to my learning since I'll be writing off in a text editor anyways. These include Quick Quoting, Team and Name @mention Autocompletions, Emoji autocomplete, Issue autocompletion, and Zen Mode (fullscreen) writing. If you're curious, please check out this page on '[Writing on Github](https://help.github.com/articles/writing-on-github)'.
 
 ## Resources:
 

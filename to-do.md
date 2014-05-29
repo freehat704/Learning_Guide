@@ -23,7 +23,10 @@ The Project To-Do List
 	- [ ] Fenced code blocks
 	- [ ] Syntax highlighting
 	- [ ] Tables
-- [ ] Reference Links at the bottom of begin.md page
+- [ ] Differences in Github comments vs. Markdown
+	- [ ] Mark-up
+	- [ ] Features
+- [x] Reference Links at the bottom of begin.md page
 - [x] Implementation of citations
 - [x] Edit what git is -> Deferred to Git section
 
