@@ -13,6 +13,8 @@ Markdown: Let's Begin
 2. [Lists](#lists)
 3. [Links](#links)
 4. [Github Flavored Markdown](#github)
+	1. [Relative Links](#relative)
+	2. [Strikethroughs](#strike)
 5. [Writing in Github](#writing)
 
 <a name="basics"/>
@@ -304,6 +306,7 @@ Some text to show that the reference links can follow later.
 
 Github includes some more things that the original markdown does not have.
 
+<a name="relative"/>
 ### Relative Link Paths
 
 One of the cool things Github provides in their version of markdown is the use of [relative links](https://help.github.com/articles/relative-links-in-readmes). For example, I needed to include a button that goes back to the home page, so I added a link at the top that says "Back To Home". 
@@ -313,6 +316,17 @@ One of the cool things Github provides in their version of markdown is the use o
 ```
 
 [Back To Home](../README.md)
+
+<a name="strike"/>
+### Strikethroughs
+
+Use the tilda ```~``` symbol two times in the beginning and end of your word or phrase to strikethrough your text.
+
+```
+~~strikeout~~
+```
+
+~~strikeout~~
 
 <a name="writing"/>
 ## Writing within Github vs. Markdown document
