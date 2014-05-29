@@ -22,11 +22,11 @@ I've done lots of reading on learning and I thought this would be a great place 
 
 I am a Cal Poly Alumni ('12 BMED) and the big motto for the school is to "Learn by Doing". That means we don't just learn the theory behind how to do our field of practice, we actually go out and do it. Lots of learning happens more when we practice.
 
-#### Applications:
+	#### Applications:
 
-##### [Markdown](markdown)
-##### [Unix Commands](unix)
-##### [Git](git)
+		##### [Markdown](markdown)
+		##### [Unix Commands](unix)
+		##### [Git](git)
 
 ### Learn by Teaching
 
