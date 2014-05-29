@@ -2,6 +2,8 @@ Learning Theory
 ===============
 [Back To The Learning Guide Home Page](../README.md)
 
+This section talks about studies in learning, applications of these studies, self studies, and some of my opinion mixed in. I've done some work in technical writing, but I didn't want this to sound dry, so I've sprinkled in some of my own opinion and added stories where they were needed. Some of my writing is from years ago, and I'm just going back and editing it now. It's all just a work in progress and I'm slowly editing this page, so add issues if you see them. Disclaimer: I'm not a scientist, although I've done a few years of academic research, so I generally know what I'm looking at when I'm reading an academic journal.
+
 ## On Beginning
 
 Beginning something new can be terrifying. I have a whole portion of the psychological effects later on. Here's a spoken word speech on beginning:
