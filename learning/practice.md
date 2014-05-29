@@ -44,15 +44,4 @@ One of the things that has fascinated me is how people ask such quality question
 
 ## Language Learning
 
-### Guide
-
-
-Learn a Foreign Language
-> Since this is a very common life-long goal, I’ve separated out the language-learning courses/podcasts from other more traditional courses. We all say we want to, but acting on that is the next step.
-
-> * Duolingo: I love this site and am half-way through boning up on my Spanish through it. It’s wonderful and totally free … and fun! If you share it with friends, then all add each other, you can compete to learn a language faster. My profile is here.
-> * My Daily Phrase: This site has both a free and paid component. The courses are paid, but they have some really wonderful “daily phrase” podcasts offered in various languages (Spanish or Italian perhaps?) that are easy enough to start tomorrow on your drive to work.  ;-)
-> * Learn foreign languages: Open Culture has a wonderful and growing list (40+ languages) of all the podcasts and websites teaching specific languages.
-> * Lifeprint: Free, self-paced American Sign Language lessons with videos, lesson-plans, and quizzes.
-> * Memrise: This is community driven lessons for various languages, and it uses images & science to make learning easy and fun.
-
+I've attempted many languages in the past.

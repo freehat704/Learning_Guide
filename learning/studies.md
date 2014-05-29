@@ -47,3 +47,21 @@ I still haven’t explained the rewiring, so let me get to that. Think as these 
 There can be recovery from addiction though. It will never be a full recovery because those circuits in the brain have been created and will never leave, with the exception of losing that part of your brain due to some trauma. However, as an addict, I can reboot and rewire myself by stopping myself from watching porn or masturbating. I’ve read way too many stories of erectile dysfunction including copulatory impotence, which I don’t want, so it’s time to stop that wanking. I hope my own journey through this process will make me better as I erase porn from my life, and hard drive, and never return to it again. I started masturbating at an older age than everybody else, and have been doing it since. As of this writing, I’ve stopped masturbating for 15 days now and feel a bit better, though I do realize I did have some withdrawal effects.
 
 So why even write out about how addiction works? Well, it’s something that one of my professors at Cal Poly told me about learning, reinforced with psychological studies. Trying to teach someone else about a topic will help me understand what I just learned. It’s also cuts down time when you study for a test, which could be useful if I was still in school. 
+
+## Language Learning
+
+Here's a great resource guide:
+
+> *Learn a Foreign Language*
+
+> Since this is a very common life-long goal, I’ve separated out the language-learning courses/podcasts from other more traditional courses. We all say we want to, but acting on that is the next step.
+
+> * [Duolingo](http://www.duolingo.com/): I love this site and am half-way through boning up on my Spanish through it. It’s wonderful and totally free … and fun! If you share it with friends, then all add each other, you can compete to learn a language faster.
+> * [My Daily Phrase](http://mydailyphrase.com/): This site has both a free and paid component. The courses are paid, but they have some really wonderful “daily phrase” podcasts offered in various languages ([Spanish](http://radiolingua.com/shows/spanish/coffee-break-spanish/) or [Italian](http://radiolingua.com/shows/italian/my-daily-phrase-italian/) perhaps?) that are easy enough to start tomorrow on your drive to work.  ;-)
+> * [Learn foreign languages](http://www.openculture.com/freelanguagelessons): Open Culture has a wonderful and growing list (40+ languages) of all the podcasts and websites teaching specific languages.
+> * [Lifeprint](http://www.lifeprint.com/): Free, self-paced American Sign Language lessons with videos, lesson-plans, and quizzes.
+> * [Memrise](http://www.memrise.com/): This is community driven lessons for various languages, and it uses images & science to make learning easy and fun.
+
+> - Shannon O'Donnell, "[A Little Guide … Free Resources to Learn and Read Nearly Anything](http://alittleadrift.com/2013/02/free-resources-for-education/)", 2013
+
+I've been following Scott H. Young on his quest of a year without english, or what he called "[The Year Without English](http://www.scotthyoung.com/blog/the-year-without-english/)." Along with his friend, [Vat Jaiswal](http://www.vatjaiswal.com/), they are living in four countries and try to speeak the native langauge with zero attempt at resorting to English for the entire year. Mr. Young has been an inspiration for myself because of a previous project he did of learning a MIT Computer Science degree in a year, or the [MIT Challenge](http://www.scotthyoung.com/blog/mit-challenge/). He tries to understand the underlying facts of learning, like what I'm doing, and apply it to his projects. His blog posts have been a treasure trove for me while I try to learn my projects more efficient and effectively.
