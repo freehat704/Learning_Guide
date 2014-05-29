@@ -1,10 +1,17 @@
 Learning Guide
 ==============
 
+## Introduction
 ### Welcome to Jeremy's Guide to Learning.
 
 I want to help everyone with learning by creating a guide that helps one learn about how to learn while giving real life examples. I'll be learning markdown language, unix commands, and git to solidify my understanding of these tools, and in turn will go through my process of how to learn.
 
+## Table of Contents
+
+1. [An Overview of the Learning Project](#learning-project)
+2. [Project To-Do List](#to-do)
+
+<a name="learning-project"/>
 ## An Overview of the [Learning Project](learning)
 
 ### [Learning Theory](learning/theory.md)
@@ -29,6 +36,7 @@ As an educator, the best way I can engage my students is when we do role reversa
 
 Over time, I'll also include a bunch of case studies for learning as applications of the theory. It helps solidify some of the concepts by telling stories which people can relate much more easily to. I'm not entirely sure if this will be its own separate folder or just interwoven into everything, but none-the-less this is an integral part of this guide.
 
-As I start filling out these sections, I'll update my to-do list regularly. here it is:
+<a name="to-do"/>
+## Project To-do List
 
 #### [To-Do](to-do.md)

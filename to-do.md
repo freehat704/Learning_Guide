@@ -4,6 +4,7 @@ The Project To-Do List
 [Back To Home](README.md)
 
 #### Main Page Read-Me
+- [ ] Add quick table of contents at the beginning underneath intro
 
 #### Learning Guide
 - [ ] Add "content pending" to pages without any content

@@ -1,6 +1,6 @@
 Markdown: Let's Begin
 =====================
-[Back To Markdown Home Page](../README.md)
+[Back To Markdown Home Page](README.md)
 
 ## Table of Contents
 1. [Basics](#basics)
