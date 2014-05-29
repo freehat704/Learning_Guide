@@ -414,3 +414,13 @@ One of the most publicized studies is Dr. Ericsson's study on chess masters. Mal
 
 In [The Lean Startup](http://theleanstartup.com/) by Eric Ries, he talks about tight feedback loops via the concept of the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product).
 
+* [Agile Manifesto](http://agilemanifesto.org/)
+* [Lean Startups: Learning Over Working Software](http://www.hackerchick.com/2010/08/lean-startups-learning-over-working-software.html)
+
+## Effective Feedback
+
+* [Seven Keys to Effective Feedback](http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/Seven-Keys-to-Effective-Feedback.aspx)
+
+## Closing Statement
+
+The theory is great, but you should really read more about the practice of what you've learned here. Go on the next section, [learning practice](practice.md).
