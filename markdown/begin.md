@@ -45,6 +45,22 @@ Like in HTML, we have six headers we can use. Instead of ```h1``` through ```h6`
 ##### Represents h5
 ###### Represents h6
 
+We also use ```=``` and ```-``` lines underneath h1 and h2 headings.
+
+```
+Heading 1
+=========
+
+Heading 2
+---------
+```
+
+Heading 1
+=========
+
+Heading 2
+---------
+
 ### Blockquotes
 
 This can be indicated with a ```>``` symbol before starting your quote.
@@ -56,6 +72,38 @@ Maya Angelou once said the following:
 Maya Angelou once said the following:
 
 > Courage is the most important of all the virtues, because without courage you can't practice any other virtue consistently. You can practice any virtue erratically, but nothing consistently without courage.
+
+We can also nest blockquotes.
+
+```
+> Normal Quote
+
+>> Nested Quote in Normal Quote
+
+> End of Normal Quote
+```
+
+> Normal Quote
+
+>> Nested Quote in Normal Quote
+
+> End of Normal Quote
+
+Lastly, you can quote by indenting.
+
+```
+Normal Text
+
+	Indented Quoted Text
+
+Back to Normal Text
+```
+
+Normal Text
+
+	Indented Quoted Text
+
+Back to Normal Text
 
 ### Styling Text
 
@@ -80,7 +128,7 @@ For example, **this phrase is in bold, _and this is in bold and italics_ to demo
 
 ### Unordered Lists
 
-Use the ```*``` or ```-``` symbol in front of list. Be sure that this is the first character of the line. Do not add line breaks between the list items, which is unlike making a new paragraph.
+Use the ```*``` or ```-``` or ```+``` symbol in front of list. Be sure that this is the first character of the line. Do not add line breaks between the list items, which is unlike making a new paragraph.
 
 ```
 * Item
@@ -120,6 +168,8 @@ Create inline links by adding brackets ```[ ]``` around the text you want to lin
 ```
 [I'm an inline-style link to Github](https://www.github.com)
 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
 [This is a reference-style link][With Arbitrary case-insensitive reference text]
 
 [You can use numbers (wow) for reference-style link definitions][1]
@@ -136,6 +186,8 @@ Some text to show that the reference links can follow later.
 ```
 
 [I'm an inline-style link](https://www.google.com)
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 [I'm a reference-style link][with Arbitrary case-insensitive reference text]
 
