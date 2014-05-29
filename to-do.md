@@ -11,11 +11,19 @@ The Project To-Do List
 	- [x] Learning Theory
 	- [x] Learning Practice
 	- [ ] Learning Studies
+- [ ] Guide on How To Research
 
 #### Markdown
 
 - [x] Basics of markdown
 - [ ] Basics of markdown for Github (i.e. differences)
+	- [ ] Multiple underscores in words
+	- [ ] URL autolinking
+	- [ ] Strikethrough
+	- [ ] Fenced code blocks
+	- [ ] Syntax highlighting
+	- [ ] Tables
+- [ ] Reference Links at the bottom of begin.md page
 - [x] Implementation of citations
 - [x] Edit what git is -> Deferred to Git section
 
@@ -31,5 +39,4 @@ The Project To-Do List
 #### Within this To-Do List
 Top Priority:
 - [x] Figure out how to make a checklist
-- [ ] Guide on How to Research
 - [x] Learn how to tab lists

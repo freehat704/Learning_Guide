@@ -6,6 +6,7 @@ Markdown: Let's Begin
 1. [Basics](#basics)
 2. [Lists](#lists)
 3. [Links](#links)
+4. [Github Flavored Markdown](#github)
 
 <a name="basics"/>
 ## Basics
@@ -121,6 +122,7 @@ The best way to practice is to [visit GitHub!](www.github.com).
 
 The best way to practice is to [visit GitHub!](www.github.com).
 
+<a name="github"/>
 ## Github Flavored Markdown
 
 Github includes some more things that the original markdown does not have.
@@ -135,5 +137,32 @@ One of the cool things Github provides in their version of markdown is the use o
 
 [Back To Home](../README.md)
 
+## Writing within Github vs. Markdown document
+
+I've been writing on Sublime text, which is not the same as writing in markdown via Github. Here are the notable differences.
+
+### Newlines
+
+No more empty new lines between paragraphs. Look at the following:
+```
+Farts and more farts
+Separated into its own lines.
+```
+
+becomes:
+
+Farts and more farts
+
+Separated into its own lines.
+
+### Task lists
+
+TBA
+
+## Resources:
+
+* [Markdown Basics from Github](https://help.github.com/articles/markdown-basics)
+* [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+* [Writing on Github](https://help.github.com/articles/writing-on-github)
 
 
