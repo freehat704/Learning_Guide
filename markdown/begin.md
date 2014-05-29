@@ -16,6 +16,8 @@ Markdown: Let's Begin
 	1. [Relative Links](#relative)
 	2. [Strikethroughs](#strike)
 	3. [Code Highlighting](#highlight)
+	4. [URL Autolinking](#auto)
+	5. [Tables](#table)
 5. [Writing in Github](#writing)
 
 <a name="basics"/>
@@ -334,6 +336,54 @@ Use the tilda ```~``` symbol two times in the beginning and end of your word or 
 ### Code Highlighting
 
 Code can be highlighted. I talked about it [here](#highlight).
+
+<a name="auto"/>
+### URL Autolinking
+
+URLs without any brackets around a word will automatically turn into a link.
+
+	http://google.com/
+
+becomes:
+
+http://google.com/
+
+<a name="table"/>
+### Tables
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
+
+
+
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | ~~Display the~~ help window.|
+| Close     | _Closes_ a window     |
+
+
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 <a name="writing"/>
 ## Writing within Github vs. Markdown document

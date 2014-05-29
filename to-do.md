@@ -4,13 +4,8 @@ The Project To-Do List
 [Back To Home](README.md)
 
 #### Main Page Read-Me
-- [x] Add quick table of contents at the beginning underneath intro
 
 #### Learning Guide Main Page
-- [x] Add "content pending" to pages without any content
-	- [x] Learning Theory
-	- [x] Learning Practice
-	- [x] Learning Studies
 
 #### [ ] Learning Theory
 - [x] Add a table of contents
@@ -125,34 +120,16 @@ The Project To-Do List
 
 #### Markdown
 - [ ] Basics of markdown
-	- [x] Links
-		- [x] Basic Link
-		- [x] Link with title
-	- [x] Underlined heading and subheading syntax
-	- [x] Nested Blockquotes
-	- [x] Add description that other Markdown elements work within quotes
-	- [x] Plus signs (+) also work for lists
-	- [x] Multiple Paragraphs in List
  	- [ ] Images
  		- [ ] Image Links
  		- [ ] Alt text in Images
- 	- [x] Horizonal Rules
 - [ ] Basics of markdown for Github (i.e. differences)
-	- [ ] Multiple underscores in words
-	- [ ] URL autolinking
-	- [x] Strikethrough
-	- [ ] Fenced code blocks
-	- [x] Syntax highlighting
-	- [ ] Tables
+	- [ ] Finish Tables
 - [ ] Differences in Github comments vs. Markdown
 	- [ ] Mark-up
-	- [x] Features
 - [ ] Advanced Markdown
 	- [ ] Citations
 	- [ ] Youtube Videos
-- [x] Reference Links at the bottom of begin.md page
-- [x] Implementation of citations
-- [x] Edit what git is -> Deferred to Git section
 
 #### Unix
 - [ ] Add content for "What is UNIX"
@@ -177,5 +154,3 @@ The Project To-Do List
 
 #### Within this To-Do List
 Top Priority:
-- [x] Figure out how to make a checklist
-- [x] Learn how to tab lists
