@@ -1,6 +1,6 @@
 Markdown: Let's Begin
 =====================
-[Back To Markdown Home Page](README.md)
+[Back To Markdown Home Page](readme.md)
 
 ## Table of Contents
 1. [Basics](#basics)
@@ -128,7 +128,7 @@ Or leave it empty and use the [link text itself]
 
 Some text to show that the reference links can follow later.
 
-(This following part won't show without blocking it out, so I added > signs in front. You don't normally add them)
+(This following part won't show without blocking it out, so I added '>' signs in front. You don't normally add them)
 
 >[with arbitrary case-insensitive reference text]: https://www.mozilla.org
 >[1]: http://slashdot.org
