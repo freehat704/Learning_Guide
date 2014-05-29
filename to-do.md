@@ -6,18 +6,26 @@ The Project To-Do List
 #### Main Page Read-Me
 
 #### Learning Guide
+- [ ] Add "content pending" to pages without any content
 
 #### Markdown
 
-* Structure markdown syntax
-* Implementation of citations
-* Edit what git is
+- [x] Basics of markdown
+- [ ] Basics of markdown for Github (i.e. differences)
+- [x] Implementation of citations
+- [x] Edit what git is -> Deferred to Git section
 
 #### Unix
+- [ ] Add content for "What is UNIX"
+- [ ] Basics of UNIX commands
+- [ ] Advanced UNIX commands
 
 #### Git
+- [ ] Describe what is Git
+- [ ] Describe what is Github
 
 #### Within this To-Do List
 Top Priority:
-- Figure out how to make a checklist
-- Guide on How to Research
+- [x] Figure out how to make a checklist
+- [ ] Guide on How to Research
+- [ ] Learn how to tab lists
