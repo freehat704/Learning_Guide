@@ -39,4 +39,6 @@ Over time, I'll also include a bunch of case studies for learning as application
 <a name="to-do"/>
 ## Project To-do List
 
+The to-do list is a list of items that I have completed or am currently working on. If there are any issues with this guide, please create an issue and I will add it to the to-do list.
+
 #### [To-Do](to-do.md)
