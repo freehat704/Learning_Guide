@@ -182,16 +182,14 @@ But why is this important to anything else besides those three things listed abo
 
 I'm reading the book "Pragmatic Thinking & Learning," which tries to help you get in better mindsets and problem solving modes. One of the thing they discuss is how to enable one to get themselves engaged in r-mode thinking, and then transferring over to l-mode. R-mode thinking is associated with random, intuitive, holistic, synthesizing, subjective, and looks at wholes (gestalt). L-mode thinking, that little voice in your head, is logical, sequential, rational, analytical, objective, and looks at parts. <sup>[6][6]</sup> The shortcoming of R-mode is that you can't verbalize or put into words the action you are thinking about. For example, dreams are heavily associated with r-mode since it's the slow running process going on in the background. Also, if you've ever tried to figure someone's name, or the name of a song, and couldn't at the moment, but later on figure out what it is, like in the shower or while you're driving, that's r-mode thinking going on in the background. Transferring that to L-mode is important because it gives you a way to communicate these ideas to others and helps you figure out to your consciousness what's going on. 
 
-Inner games can be dealt with in this manner, by stopping that l-mode thinking and allowing r-mode to kick in. In a game of tennis, you could be playing an opponent you may think is stronger than you, and you play accordingly. Psychologists would say there's the unconscious that wants you to throw the game so you can believe that little lie in your head that this opponent is better than you. It's the reason confidence and belief is so much stronger than just telling someone a lesson. <sup>[7][7]</sup> I think everyone can use some of these exercises for unlocking your r-mode to help with many problem solving tasks. I won't divulge on them in this email.
+Inner games can be dealt with in this manner, by stopping that l-mode thinking and allowing r-mode to kick in. In a game of tennis, you could be playing an opponent you may think is stronger than you, and you play accordingly. Psychologists would say there's the unconscious that wants you to throw the game so you can believe that little lie in your head that this opponent is better than you. It's the reason confidence and belief is so much stronger than just telling someone a lesson. I think everyone can use some of these exercises for unlocking your r-mode to help with many problem solving tasks. I won't divulge on them in this email.
 
-[1]: First mentioned in the book, "The Inner Game of Tennis" by Timothy Gallwey
-[2]: See "Thinking, Fast and Slow" by Daniel Kahneman
+[1]: http://www.amazon.com/Inner-Game-Tennis-Classic-Performance/dp/0679778314
+[2]: http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555
 [3]: http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050 "Chapter 3"
-[4]: Explained very tersely in "Drawing on the Right Side of the Brain" by Dr. Betty Edwards 
-[5]: I actually haven't read the book. Only references of this book from other books.
+[4]: http://www.amazon.com/Drawing-Right-Side-Brain-Definitive/dp/1585429201 "Explained very tersely by Dr. Betty Edwards"
+[5]: http://www.amazon.com/Games-People-Play-Transactional-Analysis/dp/0345410033 "I actually haven't read the book. Only references of this book from other books."
 [6]: http://www.wisc-online.com/Objects/ViewObject.aspx?ID=IAT104
-[7]: I can talk for hours about this. There are so many events everywhere where this just rings really true. Let me know if you ever want me to talk about this.
-
 #### Coping Mechanisms
 
 #### Mindset (fixed vs. growth)
