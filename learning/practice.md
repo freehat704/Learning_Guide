@@ -44,4 +44,10 @@ One of the things that has fascinated me is how people ask such quality question
 
 ## Language Learning
 
-I've attempted many languages in the past.
+Why should you learn a language? Reddit's [r/Russian](http://www.reddit.com/r/Russian) helps with this explanation: 
+
+> Lots of people of all ages learn languages for a variety of reasons. Some learn out of necessity for work, others plan to travel, some take an interest in the history and culture of a nation, some migrants feel obligated to learn their parents'/grandparents' language and some do it purely out of interest. A common myth is that age is a large preventative factor for language learning. This is almost entirely a lie. Although children do retain words better, motivation is a far larger factor, and something many of us don't obtain until after we left school. A lot of people also get the feeling that they are either untalented at or dislike language learning, especially after not enjoying and forgetting languages learnt in school. Real language learning doesn't have to be like a school course, which are generally poorly done, and natural talent has very little role in learning the language, rather motivation is far more important.
+
+> - [r/Russian Wiki page](http://www.reddit.com/r/russian/wiki/index)
+
+I grew up bilingual... 

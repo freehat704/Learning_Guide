@@ -64,4 +64,6 @@ Here's a great resource guide:
 
 > - Shannon O'Donnell, "[A Little Guide … Free Resources to Learn and Read Nearly Anything](http://alittleadrift.com/2013/02/free-resources-for-education/)", 2013
 
+---
+
 I've been following Scott H. Young on his quest of a year without english, or what he called "[The Year Without English](http://www.scotthyoung.com/blog/the-year-without-english/)." Along with his friend, [Vat Jaiswal](http://www.vatjaiswal.com/), they are living in four countries and try to speeak the native langauge with zero attempt at resorting to English for the entire year. Mr. Young has been an inspiration for myself because of a previous project he did of learning a MIT Computer Science degree in a year, or the [MIT Challenge](http://www.scotthyoung.com/blog/mit-challenge/). He tries to understand the underlying facts of learning, like what I'm doing, and apply it to his projects. His blog posts have been a treasure trove for me while I try to learn my projects more efficient and effectively.
