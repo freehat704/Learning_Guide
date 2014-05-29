@@ -10,7 +10,7 @@ The Project To-Do List
 - [ ] Add "content pending" to pages without any content
 	- [x] Learning Theory
 	- [x] Learning Practice
-	- [x] Learning Studies
+	- [ ] Learning Studies
 
 #### Markdown
 
