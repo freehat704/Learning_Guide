@@ -89,3 +89,25 @@ And here's another quote with fewer words:
 
 > - Kate Kendall (but probably attributed by Seth Godin)
 
+## Beginner's Mind
+
+> So I attempted learning the guitar when I was younger, and gave up on it. I was convinced that either my fingers were too chubby, or I wasn't nimble enough, or any number of other excuses that made it easy to give up.
+> Several years later, what helped me succeed in learning this time:
+
+> Accept the fact that, at first, you WILL suck. And you will continue to suck until you build up callouses. In fact, for the first several weeks of learning, you should be more concerned with sucking while building up callouses than you should be about perfecting your chords.
+
+> I'm not sure if this sounds like herp-derp "of course" advice, or maybe even bad advice, but it has worked well for myself and a few beginners I've run into.
+
+> The most obvious reason so many people give up on guitar is because "its hard," but I have found that many people don't seem to understand that it doesn't matter how fast you can memorize chords if your pudgy fingertips are smooshing over the strings and touching stuff they shouldn't.
+
+> But yeah, I have one friend who is doing really well with the new outlook on practicing and another who almost gave up on guitar but can now do a few clean chords... all because instead of thinking they sucked at guitar, they realized that it was more of a physiological thing that you can't really shortcut, and if you stick in it long enough to earn your callouses, practicing becomes legitimately fun.
+
+> So again, for all you beginners who got a guitar and a chordbook and are edging on giving up because "you can't do it." You can't -- yet. Keep practicing your chords, but switch your mindset from, "I can't play this chord clean yet," to, "I don't have enough callous yet."
+
+> I'm one of the most ADD people imagineable, but I've gotten to the point where I enjoy playing a couple hours a day if I can... and its fun because I have earned my calluses.
+
+> Edit: Just to add something that yakka2 mentioned... coming to terms with sucking is something that you'll need to get used to every time you try to up-the-ante and reach a new level of playing. I mean, a lot more comes into play like muscle memory and strumming styles -- but one constant remains the same: you will suck at first. But that's okay, even the best guitarists sucked before they didn't.
+
+> tl;dr: You can either worry about embarrassing yourself and end up never learning a really awesome instrument, or you can do what many other people fail to do and keep working towards your goal long enough that your body catches up to your mind.
+
+> - Reddit's [u/sirberus](http://www.reddit.com/user/sirberus) explains sucking at the beginning 
