@@ -8,6 +8,9 @@ The Project To-Do List
 
 #### Learning Guide
 - [ ] Add "content pending" to pages without any content
+	- [x] Learning Theory
+	- [x] Learning Practice
+	- [x] Learning Studies
 
 #### Markdown
 
@@ -29,4 +32,4 @@ The Project To-Do List
 Top Priority:
 - [x] Figure out how to make a checklist
 - [ ] Guide on How to Research
-- [ ] Learn how to tab lists
+- [x] Learn how to tab lists
