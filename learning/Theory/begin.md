@@ -4,6 +4,8 @@ On Beginning
 Learning Theory
 ---------------
 
+[Back To Learning Theory Main Page](../theory.md)
+
 ## On Beginning
 
 Beginning something new can be terrifying. I have a whole portion of the psychological effects later on. Here's a spoken word speech on beginning:
