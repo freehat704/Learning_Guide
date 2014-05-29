@@ -6,8 +6,8 @@ This section talks about studies in learning, applications of these studies, sel
 
 ## Table of Contents
 
-1. [On Beginning](#beginning)
-2. [Intro to meta-learning](#meta)
+1. [On Beginning](theory/begin.md)
+2. [Intro to meta-learning](theory/meta.md)
 3. [Children and Studying](#children)
 4. [Classrooms](#classroom)
 5. [Autodidacticism](#auto)
@@ -20,102 +20,6 @@ This section talks about studies in learning, applications of these studies, sel
 12. [Learning Styles](#styles)
 13. [Learning From Experts](#expert)
 14. [Learning With Others](#peer)
-
-<a name="beginning"/>
-## On Beginning
-
-Beginning something new can be terrifying. I have a whole portion of the psychological effects later on. Here's a spoken word speech on beginning:
-
-> Don’t call it a comb-back; I’ll have hair for years.
-
-> I’m scared.
-
-> I’m scared that my abilities are gone.
-
-> I’m scared that I’m going to fuck this up.
-
-> And I’m scared of you.
-
-> I don’t want to start, but I will.This is an invocation for anyone who hasn’t begun, who’s stuck in a terrible place between zero and one.
-
-> Let me realize that my past failures at follow-through are no indication of my future performance.
-
-> They’re just healthy little fires that are going to warm up my ass.
-
-> If my FILDI (fuck it let’s do it) is strong let me keep him in a velvet box until I really, really need him.
-
-> If my FILDI is weak let me feed him oranges and not let him gorge himself on ego and arrogance.Let me not hit up my Facebook like it’s a crack pipe
-
-> Keep the browser closed.
-
-> If I catch myself wearing a too-too (too fat, too late, too old) let me shake it off like a donkey would shake off something it doesn’t like.
-
-> And when I get that feeling in my stomach — you know the feeling when all of a sudden you get a ball of energy and it shoots down into your legs and up into your arms and tells you to get up and stand up and go to the refrigerator and get a cheese sandwich — that’s my cheese monster talking.
-
-> And my cheese monster will never be satisfied by cheddar, only the cheese of accomplishment.
-
-> Let me think about the people who I care about the most, and how when they fail or disappoint me… I still love them, I still give them chances, and I still see the best in them.  
-
-> Let me extend that generosity to myself.
-
-> Let me find and use metaphors to help me understand the world around me and give me the strength to get rid of them when it’s apparent they no longer work.
-
-> Let me thank the parts of me that I don’t understand or are outside of my rational control like my creativity and my courage.
-
-> And let me remember that my courage is a wild dog.
-
-> It won’t just come when I call it, I have to chase it down and hold on as tight as I can. Let me not be so vain to think that I’m the sole author of my victories and a victim of my defeats.
-
-> Let me remember that the unintended meaning that people project onto what I do is neither my fault or something I can take credit for.
-
-> Perfectionism may look good in his shiny shoes but he’s a little bit of an asshole and no one invites him to their pool parties.
-
-> Let me remember that the impact of criticism is often not the intent of the critic, but when the intent is evil, that’s what the block button’s for.
-
-> And when I eat my critique, let me be able to separate out the good advice from the bitter herbs.
-
-> (There are few people who won’t be disarmed by a genuine smile
-
-> A big impact on a few can be worth more than a small impact)
-
-> Let me not think of my work only as a stepping stone to something else, and if it is, let me become fascinated with the shape of the stone.
-> Let me take the idea that has gotten me this far and put it to bed.
-
-> What I am about to do will not be that, but it will be something.There is no need to sharpen my pencils anymore.  
-> My pencils are sharp enough.  
-
-> Even the dull ones will make a mark.
-
-> Warts and all.
-
-> Let’s start this shit up.
-
-> And God let me enjoy this.  Life isn’t just a sequence of waiting for things to be done.
-
-> - [Ze Frank, "An Invocation For Beginning", "A Show", Youtube, 2012](http://ashow.zefrank.com/episodes/1)
-
-[![Ze Frank A Show Episode 1](http://img.youtube.com/vi/RYlCVwxoL_g/0.jpg)](http://www.youtube.com/watch?v=RYlCVwxoL_g)
-
-And here's another quote with fewer words:
-
-> Sucking at something is the first step to kinda not sucking at something
-> - Jake the dog, "Adventure Time" tv show, Cartoon network, 2013
-
-> Stop waiting for something to happen or for someone to give you permission to do things.
-
-> - Kate Kendall (but probably attributed by Seth Godin)
-
-
-<a name="meta"/>
-## Intro to meta-learning
-
-I may have mentioned before that there are different ways that we learn, and how it takes more than just thinking about what we want to learn. Mental performance is highly dependent on how much you stop thinking about how to learn, for example. When reached at a certain peak of complexity of a task matched with a fair amount of skill, you may reach a state called flow. So what is learning? It’s a form of challenging yourself, or a collective, to form something new, whether it is a mindset, a goal, or a skill. Learning has its roots in nature, where adaptability is one form of survival. Learning happens everywhere and at anytime, whether we would like to or not. New neural pathways are built from learning something, whether it is new ideas, movements in our body, or people that we frequently see. Evolution is nature’s way of learning, albeit very slowly. Now we understand the semantics of learning, how do we go about doing it?
-
-There are two distinct ways of learning and each do not have a binary switch of being bad or good; there is passive and active learning. Passive learning is a form of interesting learning if you utilize it the right way. I may have mentioned before about mental performance and letting the right side of the mind do more of the heavy lifting when it comes to being the best at athletic sports. The same concept is used for musicians, masseurs, chefs, and many others for their art and craft. It takes that tactile touch and other senses to really bring together something that cannot just be forged by nature. For example, a tennis swing can be taught through oral procedure, but the mind isn’t going to implement it correctly. Mentally, you think, oh, I have to swing back first, then I’ve got to hit at the right point of the racket and that point of contact should be 90 degrees relative to the base line, and I’ve got to follow through when releasing the ball’s point of contact. With that much thinking, you’ll never be able to pull it off correctly. That’s when we rely on that other side of our brain, i.e. that “heavy lifting” we mentioned earlier. This type of learning is a form of kinesthetic learning, which can be useful for teaching athletes other subjects because they may prefer to learn in movement. Active learning, which is learning with intensive thinking about a certain subject, primarily utilizes the left side of the brain, but an experienced learner will actually know how to use both. Holistic learning is probably one of the best ways to learn many subjects, but not always, e.g. law. It’s the opposite of compartmentalized learning, the act of making distinction one subject to another subject, never letting them interacts with each other; for example, a teenager may stop thinking math is useful for anything and just learns it just for the practicality of passing their math class and forget it after he or she exits the classroom. Holistic learning stems from the fact that these concepts and ideas interact with one another, which is why you might be able to explain one concept if you knew a bunch about an associated subject. For example, if we know things about chemical formulas and properties, we could explain why the volume of gas is less in the morning versus in the afternoon. We may not know the complete fine details, but we can ascertain to why it is because of the foundations we created.
-
-Foundations are created by the building blocks that make up complex components, as we see with the curriculum of engineering degrees. Mathematics follows this principle quite nicely. But like the order of the universe, we cannot just learn step by step of how to be a designer in a classroom. We can talk about these subjects, but just as we talked about in the procedure of a tennis swing, it takes some bit of action to learn. With design work of any type, be it software or hardware, we can see that having projects to work with will actually increase our knowledge of these big building block ideas. Learning actively all of the time is crucial in success while working. When I hear friends say that they stopped learning after my last college or high school class, I just want to slap them in the face and tell them that you never stop learning. I don’t care if you’re too young or too old, too fragile or too shy, the world has infinite possibilities to learn just about anything. This steps on one of the interesting things about the process of learning: learning progression of skills.
-
-If there was perfection, we wouldn’t need to exist. Human flaw and error is why learning exists in the first place, and that’s great because to really hone our craft at doing anything we want, there is an innate process of learning. Even if you’re the top expert in a field, you have something to learn. I watched a movie about the best sushi chef in the world, and his goal everyday is to top the sushi he made all of the previous times he has made sushi. The craft in that is not just the sushi, but the presentation, the audience, and the management of your workers who make it possible even to make the sushi. Learning is strange in that even when you’ve mastered all of the building blocks, you can go back and learn more about the complexities of that topic. If we talk about math, learning about partial differentials only opens up a world of possibility (Douglas Adams would probably say improbability) with applications in sound, heat, electrodynamics, fluid flow, etc. The human limit is when we quit doing that, learn the mindset of saying we don’t learn anymore, and watch a mindless TV show that will waste time and make us learn about the story of that TV show.
 
 <a name="children"/>
 ## Children and Studying
