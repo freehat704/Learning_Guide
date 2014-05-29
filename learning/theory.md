@@ -4,6 +4,24 @@ Learning Theory
 
 This section talks about studies in learning, applications of these studies, self studies, and some of my opinion mixed in. I've done some work in technical writing, but I didn't want this to sound dry, so I've sprinkled in some of my own opinion and added stories where they were needed. Some of my writing is from years ago, and I'm just going back and editing it now. It's all just a work in progress and I'm slowly editing this page, so add issues if you see them. Disclaimer: I'm not a scientist, although I've done a few years of academic research, so I generally know what I'm looking at when I'm reading an academic journal.
 
+## Table of Contents
+
+1. [On Beginning](#beginning)
+2. [Intro to meta-learning](#meta)
+3. [Children and Studying](#children)
+4. [Classrooms](#classroom)
+5. [Autodidacticism](#auto)
+6. [Studying](#study)
+7. [Difficulties](#difficult)
+8. [Learning Enhancements](#enhance)
+9. [Learning Exercises](#exercises)
+10. [Two Brains Concept](#two-brain)
+11. [Learning/Project Management](#manage)
+12. [Learning Styles](#styles)
+13. [Learning From Experts](#expert)
+14. [Learning With Others](#peer)
+
+<a name="beginning"/>
 ## On Beginning
 
 Beginning something new can be terrifying. I have a whole portion of the psychological effects later on. Here's a spoken word speech on beginning:
@@ -83,16 +101,21 @@ And here's another quote with fewer words:
 > Sucking at something is the first step to kinda not sucking at something
 > - Jake the dog, "Adventure Time" tv show, Cartoon network, 2013
 
+<a name="meta"/>
 ## Intro to meta-learning
 
+<a name="children"/>
 ## Children and Studying
 
 ### Intro to Child Development
 
+<a name="classroom"/>
 ## Classrooms
 
+<a name="auto"/>
 ## Autodidacticism
 
+<a name="study"/>
 ## Studying
 
 ### Pomodoro Technique
@@ -156,6 +179,7 @@ It wasn't until later when I realized what bothered me more wasn't that I wasn't
 
 From [Lifehacker Article](http://lifehacker.com/back-to-basics-perfect-your-note-taking-techniques-484879924)
 
+<a name="difficult"/>
 ## Learning Difficulties
 
 ### Psychological
@@ -223,6 +247,7 @@ Inner games can be dealt with in this manner, by stopping that l-mode thinking a
 
 #### Brain Waves
 
+<a name="enhance"/>
 ## Learning Enhancements
 
 ### Nootropics
@@ -230,6 +255,7 @@ Inner games can be dealt with in this manner, by stopping that l-mode thinking a
 * ADHD drugs (e.g. ritalin)
 * Modafilin
 
+<a name="exercises"/>
 ## Learning Exercises
 
 ### Memorization
@@ -246,6 +272,7 @@ Primacy and Recency Effects (See 4HC for von Restroff effect)
 
 Anki Method
 
+<a name="two-brain"/>
 ## Two Brains Concept (L and R-mode)
 
 ### Explanation of L-Mode
@@ -256,6 +283,7 @@ Anki Method
 
 ### Mixing both L and R-mode for better comprehension
 
+<a name="manage"/>
 ## Learning/Project Management
 
 ### GTD
@@ -268,6 +296,7 @@ Anki Method
 
 #### Gantt Charts
 
+<a name="styles"/>
 ## Learning Styles
 
 ### Intro for learning styles
@@ -284,15 +313,17 @@ Anki Method
 
 #### Importance of your personality
 
+<a name="expert"/>
 ## The Theory of Experts
 
 ### Research from [Dr. K. Ander's Ericsson](http://www.psy.fsu.edu/faculty/ericsson.dp.html)
 
 One of the most publicized studies is Dr. Ericsson's study on chess masters. Malcolm Gladwell writes about it in his book "Outliers" and publicizes the 10,000 hour rule. Looking at the [original study](http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html) first, we examine that there's...
 
-### Learning With Others
+<a name="peer"/>
+## Learning With Others
 
-#### Notes on Peer Learning / [Peeragogy](http://peeragogy.org/)
+### Notes on Peer Learning / [Peeragogy](http://peeragogy.org/)
 
 #### Resources:
 [Peeragogy](http://peeragogy.org/)

@@ -13,9 +13,10 @@ The Project To-Do List
 	- [x] Learning Studies
 
 #### [ ] Learning Theory
-- [ ] On Beginning
-	- [ ] Ze Frank Quote (An Invocation)
-	- [ ] Jake the dog quote from Teagan
+- [x] Add a table of contents
+- [x] On Beginning
+	- [x] Ze Frank Quote (An Invocation)
+	- [x] Jake the dog quote from Teagan
 - [ ] Intro to meta-learning
 - [ ] Children and Studying
 	- [ ] Intro to Child Development
@@ -32,7 +33,7 @@ The Project To-Do List
 		- [ ] Resource links to "The Power of Habit" and "The Willpower Instinct"
 - [ ] Learning Difficulties
 	- [ ] Psychological
-		- [ ] The Inner Game: Different Kind of Mind Games
+		- [x] The Inner Game: Different Kind of Mind Games
 		- [ ] Coping Mechanisms
 		- [ ] Mindset (fixed vs. growth)
 			- [ ] Effects of Shame
@@ -83,6 +84,8 @@ The Project To-Do List
 		- [ ] Myer-Briggs
 	- [ ] Brief talk about personality styles
 		- [ ] Importance of your personality
+- [ ] Learning With Others
+	- [ ] Paired Programming
 
 #### Learning Practice
 - [ ] Goal-setting, i.e. setting up project requirements
