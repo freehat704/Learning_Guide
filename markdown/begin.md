@@ -117,7 +117,7 @@ For ordered lists, you will want to add a number before the item. Like unordered
 
 Create inline links by adding brackets ```[ ]``` around the text you want to link to and add the url link between parenthesis ```( )``` leading to the link. the brackets and parenthesis need to be next to each other, meaning no spaces between each other.
 
-```markdown
+```
 [I'm an inline-style link to Github](https://www.github.com)
 
 [This is a reference-style link][With Arbitrary case-insensitive reference text]
@@ -128,14 +128,14 @@ Or leave it empty and use the [link text itself]
 
 Some text to show that the reference links can follow later.
 
-[with arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+>[with arbitrary case-insensitive reference text]: https://www.mozilla.org
+>[1]: http://slashdot.org
+>[link text itself]: http://www.reddit.com
 ```
 
 [I'm an inline-style link](https://www.google.com)
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[I'm a reference-style link][with Arbitrary case-insensitive reference text]
 
 [You can use numbers (wow) for reference-style link definitions][1]
 
