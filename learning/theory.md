@@ -163,6 +163,23 @@ I backed David Lang's book called "Zero to Maker"* on Kickstater and in the last
 
 ##### Payoffs of Resiliance
 
+>> It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly.…" 
+>> — Theodore Roosevelt
+
+> In the nine months that it took me to shape and prune a dozen years of research into this book, I’ve revisited this quote at least one hundred times. And truthfully, I normally come back to it in fits of rage or with tearstained desperation, thinking, Maybe this is all bullshit, or It’s not worth the vulnerability. Just recently, after enduring a few really mean-spirited anonymous comments from a news website, I pulled the quote down from the pinboard over my desk and spoke directly to the sheet of paper, “If the critic doesn’t count, then why does this hurt so much?”
+
+> As I held the quote in my hand, I remembered a conversation that I had just had with a guy in his very early twenties. He told me that his parents sent him links to my TED talks and he really liked the idea of Wholeheartedness and daring greatly. When he told me that the talks inspired him to tell the young woman he’s been dating for several months that he loved her, I winced and hoped for a happy ending to the story. 
+
+> No such luck. She told him that she thought he was “awesome” but that she thought they should date other people. When he got back to his apartment after talking to his girlfriend, he told his two roommates what had happened. He said, “They were both hunched over their laptops and without looking up one of them was like ‘What were you thinking, man?’” One of his roommates told him that girls only like guys who are running the other way. 
+
+> He looked at me and said, “I felt pretty stupid at first. For a second I was mad at myself and even a little pissed at you. But then I thought about it and I remembered why I did it. I told my roommates, ‘I was daring greatly, dude.’” He smiled when he told me, “They stopped typing, looked at me, nodded their heads, and said, ‘Oh. Right on, dude.’” 
+
+> Daring greatly is not about winning or losing. It’s about courage. In a world where scarcity and shame dominate and feeling afraid has become second nature, vulnerability is subversive. Uncomfortable. It’s even a little dangerous at times. And, without question, putting ourselves out there means there’s a far greater risk of feeling hurt. But as I look back on my own life and what Daring Greatly has meant to me, I can honestly say that nothing is as uncomfortable, dangerous, and hurtful as believing that I’m standing on the outside of my life looking in and wondering what it would be like if I had the courage to show up and let myself be seen.
+
+> So, Mr. Roosevelt… I think you nailed it. There really is “no effort without error and shortcoming” and there really is no triumph without vulnerability. Now when I read that quote, even when I’m feeling kicked around, all I can think is, Right on, dude.
+
+> - Brown, Brene (2012-09-11). Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead (p. 247-9). Penguin Group US. Kindle Edition. 
+
 ### Effects of Sleep and Learning
 
 #### Meditation
