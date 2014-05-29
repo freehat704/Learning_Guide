@@ -118,10 +118,34 @@ For ordered lists, you will want to add a number before the item. Like unordered
 Create inline links by adding brackets ```[ ]``` around the text you want to link to and add the url link between parenthesis ```( )``` leading to the link. the brackets and parenthesis need to be next to each other, meaning no spaces between each other.
 
 ```
-The best way to practice is to [visit GitHub!](www.github.com).
+[I'm an inline-style link to Github](https://www.github.com)
+
+[This is a reference-style link][With Arbitrary case-insensitive reference text]
+
+[You can use numbers (wow) for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself]
+
+Some text to show that the reference links can follow later.
+
+[with arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
 ```
 
-The best way to practice is to [visit GitHub!](www.github.com).
+[I'm an inline-style link](https://www.google.com)
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[You can use numbers (wow) for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself]
+
+Some text to show that the reference links can follow later.
+
+[with arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
 
 <a name="github"/>
 ## Github Flavored Markdown
@@ -170,5 +194,7 @@ All of these differences so far are mark-up differences. There are features incl
 * [Markdown Basics from Github](https://help.github.com/articles/markdown-basics)
 * [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
 * [Writing on Github](https://help.github.com/articles/writing-on-github)
-
+* [Daring Fireball: Markdown Basics](https://daringfireball.net/projects/markdown/basics)
+* [Daring Fireball: Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
+* [Adam Pritchard's Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 

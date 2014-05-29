@@ -15,7 +15,19 @@ The Project To-Do List
 
 #### Markdown
 
-- [x] Basics of markdown
+- [ ] Basics of markdown
+	- [ ] Links
+		- [x] Basic Link
+		- [ ] Link with title
+	- [ ] Underlined heading and subheading syntax
+	- [ ] Nested Blockquotes
+	- [ ] Add description that other Markdown elements work within quotes
+	- [ ] Plus signs (+) also work for lists
+	- [ ] Multiple Paragraphs in List
+ 	- [ ] Images
+ 		- [ ] Image Links
+ 		- [ ] Alt text
+ 	- [ ] Horizonal Rules
 - [ ] Basics of markdown for Github (i.e. differences)
 	- [ ] Multiple underscores in words
 	- [ ] URL autolinking
@@ -26,6 +38,9 @@ The Project To-Do List
 - [ ] Differences in Github comments vs. Markdown
 	- [ ] Mark-up
 	- [x] Features
+- [ ] Advanced Markdown
+	- [ ] Citations
+	- [ ] Youtube Videos
 - [x] Reference Links at the bottom of begin.md page
 - [x] Implementation of citations
 - [x] Edit what git is -> Deferred to Git section
