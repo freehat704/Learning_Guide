@@ -5,7 +5,13 @@ Learning Theory
 ## On Beginning
 
 ### Ze Frank Quote (An Invocation)
-### Jake the dog quote from Teagan
+
+> Sucking at something is the first step to kinda not sucking at something
+Jake the dog
+
+Adventure time 
+
+Cartoon network 2013
 
 ## Intro to meta-learning
 
