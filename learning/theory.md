@@ -109,6 +109,14 @@ And here's another quote with fewer words:
 
 ### Intro to Child Development
 
+### The Blank Mind
+
+Steven Pinker has written a book on how much we know when we're born called "The Blank Slate". This gets us into the discussion on nature vs. nurture. In terms of learning, how much of ourselves is determined by our genetic make-up and how much of it is due to our own practice and doing (external stimuli)? It turns out that very little in skill is innate. For example, we may be more predisposed to throwing 3-pointers in basketball better because of our height, but it's not the only factor. It turns out almost all of our skills can be learned.
+
+Many learning graphs exist. Here's one from 4 Hour Chef referenced by Y-Combinator Demo Day whiteboard:
+
+[include graph here]
+
 <a name="classroom"/>
 ## Classrooms
 
@@ -327,3 +335,10 @@ One of the most publicized studies is Dr. Ericsson's study on chess masters. Mal
 
 #### Resources:
 [Peeragogy](http://peeragogy.org/)
+
+## Feedback
+
+### Tight Feedback Loops
+
+In [The Lean Startup](http://theleanstartup.com/) by Eric Ries, he talks about tight feedback loops via the concept of the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product).
+
