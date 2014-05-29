@@ -25,7 +25,7 @@ The Project To-Do List
 	- [ ] Tables
 - [ ] Differences in Github comments vs. Markdown
 	- [ ] Mark-up
-	- [ ] Features
+	- [x] Features
 - [x] Reference Links at the bottom of begin.md page
 - [x] Implementation of citations
 - [x] Edit what git is -> Deferred to Git section
