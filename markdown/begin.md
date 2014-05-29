@@ -107,7 +107,26 @@ Normal Text
 
 Back to Normal Text
 
-The more proper way of doing it is to start by putting three ``` ` ``` symbols.
+The more proper way of doing it is to start by putting three backticks ``` ` ``` symbols at the beginning and end of their code blocks. Putting the langauge after the three backticks allows for code highlighting.
+
+	```
+	```Ruby
+	class Die
+	  def initialize(labels)
+	  	raise ArgumentError.new("No empty labels allowed") unless labels.length > 0
+	  	@sides = labels
+	  end
+
+	  def sides
+	  	@sides.length
+	  end
+
+	  def roll
+	  	@sides.sample
+	  end
+	end
+	```
+	```
 
 ### Styling Text
 
