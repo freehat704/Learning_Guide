@@ -230,6 +230,20 @@ Inner games can be dealt with in this manner, by stopping that l-mode thinking a
 
 #### Mindset (fixed vs. growth)
 
+> Mindset is a simple idea discovered by world-renowned Stanford University psychologist Carol Dweck in decades of research on achievement and success—a simple idea that makes all the difference.
+
+> In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success—without effort. They’re wrong.
+
+> In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment. Virtually all great people have had these qualities.
+
+> - Mindset Online "What is Mindset?"
+
+![mindset infographic](http://31.media.tumblr.com/tumblr_m3l21k2c1h1qbyd6to1_1280.jpg)
+
+##### Resources:
+* [Carol Dweck's Website](https://www.stanford.edu/dept/psychology/cgi-bin/drupalm/cdweck)
+* [Mindset Explained](http://mindsetonline.com/whatisit/about/index.html)
+
 ##### Effects of Shame
 
 ##### Payoffs of Resiliance
@@ -334,20 +348,19 @@ Primacy and Recency Effects (See 4HC for von Restroff effect)
 
 [Link to article from Lifehacker](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 
-> Years ago when Seinfeld was a new television show, Jerry Seinfeld was still a touring comic. At the time, I was hanging around clubs doing open mic nights and trying to learn the ropes. One night I was in the club where Seinfeld was working, and before he went on stage, I saw my chance. I had to ask Seinfeld if he had any tips for a young comic. What he told me was something that would benefit me a lifetime...P
+> Years ago when Seinfeld was a new television show, Jerry Seinfeld was still a touring comic. At the time, I was hanging around clubs doing open mic nights and trying to learn the ropes. One night I was in the club where Seinfeld was working, and before he went on stage, I saw my chance. I had to ask Seinfeld if he had any tips for a young comic. What he told me was something that would benefit me a lifetime...
 
-> He said the way to be a better comic was to create better jokes and the way to create better jokes was to write every day. But his advice was better than that. He had a gem of a leverage technique he used on himself and you can use it to motivate yourself—even when you don't feel like it.P
+> He said the way to be a better comic was to create better jokes and the way to create better jokes was to write every day. But his advice was better than that. He had a gem of a leverage technique he used on himself and you can use it to motivate yourself—even when you don't feel like it.
 
 > He revealed a unique calendar system he uses to pressure himself to write. Here's how it works.
 
 > He told me to get a big wall calendar that has a whole year on one page and hang it on a prominent wall. The next step was to get a big red magic marker.
 
-> He said for each day that I do my task of writing, I get to put a big red X over that day. "After a few days you'll have a chain. Just keep at it and the chain will grow longer every day. You'll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain."P
+> He said for each day that I do my task of writing, I get to put a big red X over that day. "After a few days you'll have a chain. Just keep at it and the chain will grow longer every day. You'll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain."
 
->> Don't break the chain
-> he said again for emphasis.
+> "Don't break the chain," he said again for emphasis.
 
-> Over the years I've used his technique in many different areas. I've used it for exercise, to learn programming, to learn network administration, to build successful websites and build successful businesses.P
+> Over the years I've used his technique in many different areas. I've used it for exercise, to learn programming, to learn network administration, to build successful websites and build successful businesses.
 
 > It works because it isn't the one-shot pushes that get us where we want to go, it is the consistent daily action that builds extraordinary outcomes. You may have heard "inch by inch anything's a cinch." Inch by inch does work if you can move an inch every day.
 
