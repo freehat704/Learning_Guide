@@ -105,7 +105,20 @@ And here's another quote with fewer words:
 
 #### Cramming
 
+##### Information Overload
+I've read way too much this year, and I haven't given it enough time to really sink in, so I know too many trivial points, not enough tangible topics to boost my skill set in anything. What's the phrase now, "jack of all trades, master of none?" But I think that's the point; I'm trying to expose myself to things that I would normally just put off or otherwise wouldn't pursue. I don't think I've spent enough time re-analyzing the underlying themes of the things that I'm exposed to, so it's time to take that step back and look around.
+
+* [The Information Diet](http://www.informationdiet.com/) by Clay A. Johnson
+
 ### The Science of Habits
+
+#### Unlearning
+
+As easy as it is to learn things, it's a lot harder to unlearn things. This can be the short, snap judgment responses we have when stimulated by a certain response, or an ingrained belief in something, like deep rooted hatred towards the trans* community. I'm just fascinated by this topic almost more than the topic on learning because it's the root of breaking addictions, how to stop falling in the same traps, figuring out how to stop working that inner game mindset, and so much more that we're burdened with everyday.
+
+To make this letter different, I thought I would tell you a personal story instead. During college, one of the things I set a goal for myself was to be a better person and stop thinking like I used to think, especially those downward spirals of regret and misery. One of the things I thought I wouldn't fall trap to was feel worthless and do nothing for an entire day. The way I would combat this in college was to overload myself with work so I would never feel that way. But after burnout, there were times where I wanted to do that. And then the downward spiral hits where I feel worthless, desperate, and slightly insane.
+
+It wasn't until later when I realized what bothered me more wasn't that I wasn't doing anything, but that I had this worthless talk inside of me. I had to recognize that this was happening and talk to it, or just let it happen. Then I would move on, unfazed by it and do some work or give myself permission to relax. There weren't specific instances where this changed, it was the multitudes of doing that same exercise every time that it happened that changed me. Your neuro-pathways remember a certain way of going through similar experiences after you've created those pathways in your mind. When I talked about "Your Brain on Porn" two years ago, I talked about how new neruo-pathways are created to fill that void in sexual response, and it's making people less sensitive to pornographic content as well as subjecting themselves to a rather crude belief of what sex is in our society. Also, it could lead to health issues later in life.
 
 #### Resources
 
@@ -162,6 +175,22 @@ I backed David Lang's book called "Zero to Maker"* on Kickstater and in the last
 * A maker is simply someone who persues making. For more information, read the [Tech Shop](http://techshop.ws/)'s [manifesto](http://techshop.ws/images/0071821139%20Maker%20Movement%20Manifesto%20Sample%20Chapter.pdf).
 
 #### The Inner Game: Different Kind of Mind Games
+
+Recall from two years ago that I was talking about the inner game. As a refresher, the inner game <sup>[1][1]</sup> is the mental game played between your ego and the rest of yourself. It's correlated to the two modes of thinking <sup>[2][2]</sup>, l-mode and r-mode <sup>[3][3]</sup>, left and right brained <sup>[4][4]</sup>, etc. This term is used for sports, music, and dating, though you can apply it almost anywhere. You may have peak performance in a game of tennis, for example, but when actually put to the test, under the spotlight of an actual match in a tournament, the mind can psych you out. That's the inner game.
+
+But why is this important to anything else besides those three things listed above? Because we play this game everyday, nearly every hour. In the book "Games People Play" by Eric Berne from the 1960's <sup>[5][5]</sup>, the author lists several mind games that people play with themselves that really resemble the inner game battle. Diana has told me that she's run "all the simulations in her mind" about every conceivable possibility of what could happen if a certain action was taken (in science, we call this stimuli and response). I've tried to do this before, but realized there's no way of seeing the whole picture for me by just one action (e.g. in chess, you don't win by thinking the battle moves of your opponent in 10 turns as that would be too much computation. More intuition is involved).
+
+I'm reading the book "Pragmatic Thinking & Learning," which tries to help you get in better mindsets and problem solving modes. One of the thing they discuss is how to enable one to get themselves engaged in r-mode thinking, and then transferring over to l-mode. R-mode thinking is associated with random, intuitive, holistic, synthesizing, subjective, and looks at wholes (gestalt). L-mode thinking, that little voice in your head, is logical, sequential, rational, analytical, objective, and looks at parts. <sup>[6][6]</sup> The shortcoming of R-mode is that you can't verbalize or put into words the action you are thinking about. For example, dreams are heavily associated with r-mode since it's the slow running process going on in the background. Also, if you've ever tried to figure someone's name, or the name of a song, and couldn't at the moment, but later on figure out what it is, like in the shower or while you're driving, that's r-mode thinking going on in the background. Transferring that to L-mode is important because it gives you a way to communicate these ideas to others and helps you figure out to your consciousness what's going on. 
+
+Inner games can be dealt with in this manner, by stopping that l-mode thinking and allowing r-mode to kick in. In a game of tennis, you could be playing an opponent you may think is stronger than you, and you play accordingly. Psychologists would say there's the unconscious that wants you to throw the game so you can believe that little lie in your head that this opponent is better than you. It's the reason confidence and belief is so much stronger than just telling someone a lesson. <sup>[7][7]</sup> I think everyone can use some of these exercises for unlocking your r-mode to help with many problem solving tasks. I won't divulge on them in this email.
+
+[1]: First mentioned in the book, "The Inner Game of Tennis" by Timothy Gallwey
+[2]: See "Thinking, Fast and Slow" by Daniel Kahneman
+[3]: http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050 "Chapter 3"
+[4]: Explained very tersely in "Drawing on the Right Side of the Brain" by Dr. Betty Edwards 
+[5]: I actually haven't read the book. Only references of this book from other books.
+[6]: http://www.wisc-online.com/Objects/ViewObject.aspx?ID=IAT104
+[7]: I can talk for hours about this. There are so many events everywhere where this just rings really true. Let me know if you ever want me to talk about this.
 
 #### Coping Mechanisms
 
