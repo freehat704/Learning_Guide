@@ -15,6 +15,7 @@ Markdown: Let's Begin
 4. [Github Flavored Markdown](#github)
 	1. [Relative Links](#relative)
 	2. [Strikethroughs](#strike)
+	3. [Code Highlighting](#highlight)
 5. [Writing in Github](#writing)
 
 <a name="basics"/>
@@ -119,6 +120,8 @@ Normal Text
 Back to Normal Text
 
 The more proper way of doing it is to start by putting three backticks ``` ` ``` symbols at the beginning and end of their code blocks. Putting the langauge after the three backticks allows for code highlighting.
+
+<a name="highlight"/>
 
 	```ruby
 	class Die
@@ -327,6 +330,10 @@ Use the tilda ```~``` symbol two times in the beginning and end of your word or 
 ```
 
 ~~strikeout~~
+
+### Code Highlighting
+
+Code can be highlighted. I talked about it [here](#highlight).
 
 <a name="writing"/>
 ## Writing within Github vs. Markdown document

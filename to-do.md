@@ -140,9 +140,9 @@ The Project To-Do List
 - [ ] Basics of markdown for Github (i.e. differences)
 	- [ ] Multiple underscores in words
 	- [ ] URL autolinking
-	- [ ] Strikethrough
+	- [x] Strikethrough
 	- [ ] Fenced code blocks
-	- [ ] Syntax highlighting
+	- [x] Syntax highlighting
 	- [ ] Tables
 - [ ] Differences in Github comments vs. Markdown
 	- [ ] Mark-up
