@@ -10,7 +10,7 @@ This section talks about studies in learning, applications of these studies, sel
 2. [Intro to meta-learning](Theory/meta.md)
 3. [Children and Studying](Theory/children.md)
 4. [Classrooms](Theory/classroom.md)
-5. [Autodidacticism](Theory/auto)
+5. [Autodidacticism](Theory/auto.md)
 6. [Studying](#study)
 7. [Difficulties](#difficult)
 8. [Learning Enhancements](#enhance)
