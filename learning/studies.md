@@ -30,7 +30,7 @@ If there’s something to really take away from this part of the brain, it is th
 
 Let’s go back to the Coolidge Effect. What occurs is that dopamine surges and drops normally, but with viewing multiple porn videos, there are multiple surges and drops of dopamine that follow the shape of a sound wave.
 
-(![Imgur](http://i.imgur.com/bCxAyzY))
+![Imgur](http://i.imgur.com/bCxAyzY.jpg)
 
 In other words, the Collidge Effect keeps the addict surging with more dopamine, i.e. more cravings. Some people call dopamine the “molecule of addiction,” though through the lens of a Biochemist, it’s natural we have this molecule because it does help us with other urges and desires that’s necessary, like hunger. There is a baseline of dopamine that will allow us to function normally. Where the problem kicks in is too much of it, especially from drugs such as cocaine, alcohol, and nicotine. Internet porn addiction has the similar surge of dopamine, and that’s a problem.
 
